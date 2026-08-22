@@ -1,0 +1,51 @@
+producto_id,nombre,categoria,unidad,proveedor_principal,precio_costo,precio_venta,stock_min,lead_time_dias
+LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,95000,142000,40,30
+LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,12000,18500,200,30
+LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,185000,275000,20,50
+LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,175000,260000,20,50
+LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,165000,245000,25,50
+LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,172000,255000,25,50
+LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,88000,132000,60,45
+LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,92000,138000,50,45
+LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,380000,565000,8,60
+LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,8500,14200,200,7
+CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,12000,18500,300,30
+CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,14500,22000,200,7
+CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,41000,62000,80,45
+CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,68000,102000,50,15
+CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,72000,108000,50,15
+CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,9500,14500,400,7
+CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,22000,33000,150,7
+CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,6500,10200,500,10
+CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,3200,5800,500,3
+CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,18000,27000,150,40
+PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,12500,19000,300,20
+PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,19000,29000,150,35
+PAN-003,Propionato de calcio,Panadería,kg,Univar,16500,25000,200,25
+PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,24000,36000,150,7
+PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,18000,27500,100,35
+PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,58000,88000,40,45
+PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,72000,108000,25,45
+PAN-008,Monoglicérido destilado,Panadería,kg,BASF,21000,32000,100,30
+SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,48000,75000,80,5
+SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,62000,95000,60,5
+SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,58000,88000,60,5
+SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,18500,28000,100,7
+SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,95000,145000,20,30
+SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,125000,185000,20,40
+SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,145000,215000,15,50
+SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,7800,12500,500,7
+SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,42000,63000,80,40
+SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,55000,82000,50,40
+ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,2800,4800,1000,3
+ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,6500,10500,500,3
+ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,18000,27000,200,7
+ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,28000,42000,80,30
+ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,22000,33000,100,20
+ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,38000,58000,30,15
+LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,185000,275000,10,45
+LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,195000,290000,8,45
+LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,220000,325000,8,45
+LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,205000,305000,8,45
+LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,85000,128000,20,30
+LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,75000,118000,15,5

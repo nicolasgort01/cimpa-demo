@@ -1,0 +1,351 @@
+sede_id,sede_nombre,ciudad,producto_id,producto,categoria,unidad,proveedor,stock_actual,stock_minimo,stock_maximo,precio_costo,valor_inventario,dias_cobertura,estado
+BOG-AME,Bogotá · Américas,Bogotá,LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,61.3,40,235.8,95000,5825777,46.0,Normal
+BOG-AME,Bogotá · Américas,Bogotá,LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,1012.6,200,865.4,12000,12151160,151.9,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,80.2,20,168.4,185000,14840255,80.2,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,102.2,20,168.0,175000,17893311,102.2,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,120.7,25,139.9,165000,19916611,120.7,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,140.7,25,115.5,172000,24194002,140.7,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,280.6,60,443.3,88000,24690026,140.3,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,132.1,50,346.1,92000,12151887,79.3,Normal
+BOG-AME,Bogotá · Américas,Bogotá,LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,18.0,8,65.9,380000,6825202,18.0,Normal
+BOG-AME,Bogotá · Américas,Bogotá,LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,81.5,200,1519.9,8500,692709,12.2,Crítico
+BOG-AME,Bogotá · Américas,Bogotá,CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,400.4,300,2708.6,12000,4804886,40.0,Normal
+BOG-AME,Bogotá · Américas,Bogotá,CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,1037.9,200,1536.3,14500,15049133,155.7,Alto
+BOG-AME,Bogotá · Américas,Bogotá,CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,244.2,80,646.6,41000,10013365,91.6,Alto
+BOG-AME,Bogotá · Américas,Bogotá,CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,143.0,50,351.3,68000,9722270,85.8,Normal
+BOG-AME,Bogotá · Américas,Bogotá,CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,236.7,50,210.4,72000,17045532,142.0,Alto
+BOG-AME,Bogotá · Américas,Bogotá,CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,1773.9,400,3895.1,9500,16852432,133.0,Alto
+BOG-AME,Bogotá · Américas,Bogotá,CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,792.0,150,1408.8,22000,17424932,158.4,Alto
+BOG-AME,Bogotá · Américas,Bogotá,CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,1216.3,500,3065.9,6500,7906107,73.0,Normal
+BOG-AME,Bogotá · Américas,Bogotá,CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,456.3,500,3378.4,3200,1460241,27.4,Bajo
+BOG-AME,Bogotá · Américas,Bogotá,CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,62.0,150,640.2,18000,1116720,12.4,Crítico
+BOG-AME,Bogotá · Américas,Bogotá,PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,1024.9,300,2151.8,12500,12811576,102.5,Alto
+BOG-AME,Bogotá · Américas,Bogotá,PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,209.0,150,670.0,19000,3971499,41.8,Normal
+BOG-AME,Bogotá · Américas,Bogotá,PAN-003,Propionato de calcio,Panadería,kg,Univar,675.7,200,1689.8,16500,11148600,101.4,Alto
+BOG-AME,Bogotá · Américas,Bogotá,PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,228.5,150,1300.8,24000,5482897,45.7,Normal
+BOG-AME,Bogotá · Américas,Bogotá,PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,174.2,100,743.1,18000,3135228,52.3,Normal
+BOG-AME,Bogotá · Américas,Bogotá,PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,223.0,40,390.5,58000,12936429,167.3,Alto
+BOG-AME,Bogotá · Américas,Bogotá,PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,31.7,25,148.9,72000,2281799,31.7,Normal
+BOG-AME,Bogotá · Américas,Bogotá,PAN-008,Monoglicérido destilado,Panadería,kg,BASF,138.8,100,488.5,21000,2914239,41.6,Normal
+BOG-AME,Bogotá · Américas,Bogotá,SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,112.3,80,623.1,48000,5390809,42.1,Normal
+BOG-AME,Bogotá · Américas,Bogotá,SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,159.3,60,306.2,62000,9877370,79.7,Normal
+BOG-AME,Bogotá · Américas,Bogotá,SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,68.9,60,525.8,58000,3994672,34.4,Normal
+BOG-AME,Bogotá · Américas,Bogotá,SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,82.3,100,494.1,18500,1521766,24.7,Bajo
+BOG-AME,Bogotá · Américas,Bogotá,SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,26.4,20,87.6,95000,2506822,26.4,Normal
+BOG-AME,Bogotá · Américas,Bogotá,SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,118.3,20,175.5,125000,14793176,118.3,Alto
+BOG-AME,Bogotá · Américas,Bogotá,SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,21.3,15,78.4,145000,3087298,21.3,Normal
+BOG-AME,Bogotá · Américas,Bogotá,SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,322.6,500,2496.1,7800,2516454,19.4,Bajo
+BOG-AME,Bogotá · Américas,Bogotá,SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,260.5,80,723.6,42000,10941551,97.7,Alto
+BOG-AME,Bogotá · Américas,Bogotá,SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,78.6,50,299.1,55000,4324430,47.2,Normal
+BOG-AME,Bogotá · Américas,Bogotá,ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,1016.2,1000,5047.6,2800,2845478,30.5,Normal
+BOG-AME,Bogotá · Américas,Bogotá,ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,2046.7,500,3998.6,6500,13303264,122.8,Alto
+BOG-AME,Bogotá · Américas,Bogotá,ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,316.8,200,953.0,18000,5701999,47.5,Normal
+BOG-AME,Bogotá · Américas,Bogotá,ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,271.5,80,712.8,28000,7601028,101.8,Alto
+BOG-AME,Bogotá · Américas,Bogotá,ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,404.9,100,506.7,22000,8908367,121.5,Alto
+BOG-AME,Bogotá · Américas,Bogotá,ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,67.2,30,271.6,38000,2554518,67.2,Normal
+BOG-AME,Bogotá · Américas,Bogotá,LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,51.1,10,85.7,185000,9448840,51.1,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,44.6,8,48.7,195000,8697927,44.6,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,8.0,8,51.3,220000,1756069,8.0,Bajo
+BOG-AME,Bogotá · Américas,Bogotá,LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,11.0,8,68.3,205000,2252773,11.0,Normal
+BOG-AME,Bogotá · Américas,Bogotá,LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,81.4,20,104.7,85000,6920681,81.4,Alto
+BOG-AME,Bogotá · Américas,Bogotá,LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,12.7,15,105.6,75000,950340,12.7,Bajo
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,20.6,40,352.1,95000,1952477,15.4,Bajo
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,781.0,200,1029.2,12000,9372464,117.2,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,59.0,20,172.3,185000,10920730,59.0,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,113.3,20,134.3,175000,19821224,113.3,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,86.8,25,145.4,165000,14315714,86.8,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,139.9,25,196.7,172000,24056422,139.9,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,63.8,60,515.2,88000,5612439,31.9,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,194.1,50,429.6,92000,17856427,116.5,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,7.6,8,69.2,380000,2883518,7.6,Bajo
+BOG-QUI,Bogotá · Químicos,Bogotá,LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,968.8,200,1904.8,8500,8235107,145.3,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,1599.9,300,2725.8,12000,19199114,160.0,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,973.9,200,915.1,14500,14121147,146.1,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,336.9,80,656.1,41000,13811691,126.3,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,93.9,50,314.7,68000,6381956,56.3,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,100.0,50,382.7,72000,7201744,60.0,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,1522.7,400,3801.2,9500,14465378,114.2,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,77.8,150,923.0,22000,1712545,15.6,Bajo
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,1014.3,500,2480.7,6500,6593034,60.9,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,1727.1,500,2486.2,3200,5526792,103.6,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,802.6,150,1249.1,18000,14446192,160.5,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,1091.5,300,2360.7,12500,13644209,109.2,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,794.0,150,815.7,19000,15085166,158.8,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-003,Propionato de calcio,Panadería,kg,Univar,867.5,200,1179.1,16500,14313060,130.1,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,97.6,150,1272.8,24000,2342310,19.5,Bajo
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,561.5,100,790.5,18000,10106433,168.4,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,122.8,40,326.5,58000,7121606,92.1,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,31.0,25,160.4,72000,2230894,31.0,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,PAN-008,Monoglicérido destilado,Panadería,kg,BASF,537.9,100,534.9,21000,11294989,161.4,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,104.7,80,507.3,48000,5027653,39.3,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,171.2,60,383.4,62000,10614308,85.6,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,29.7,60,362.2,58000,1721834,14.8,Crítico
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,542.2,100,620.4,18500,10030765,162.7,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,48.6,20,113.0,95000,4615213,48.6,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,25.5,20,165.9,125000,3181347,25.5,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,51.8,15,135.7,145000,7512070,51.8,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,557.5,500,3600.6,7800,4348766,33.5,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,412.0,80,352.4,42000,17302641,154.5,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,142.0,50,266.4,55000,7812163,85.2,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,533.4,1000,7045.5,2800,1493586,16.0,Bajo
+BOG-QUI,Bogotá · Químicos,Bogotá,ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,1719.4,500,4111.3,6500,11175944,103.2,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,226.6,200,1890.8,18000,4078488,34.0,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,147.8,80,400.8,28000,4139046,55.4,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,567.9,100,583.0,22000,12494270,170.4,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,57.4,30,222.2,38000,2182249,57.4,Normal
+BOG-QUI,Bogotá · Químicos,Bogotá,LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,33.2,10,52.9,185000,6148882,33.2,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,6.8,8,41.7,195000,1325938,6.8,Bajo
+BOG-QUI,Bogotá · Químicos,Bogotá,LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,33.1,8,61.9,220000,7291126,33.1,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,25.8,8,35.6,205000,5298583,25.8,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,79.2,20,148.6,85000,6728013,79.2,Alto
+BOG-QUI,Bogotá · Químicos,Bogotá,LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,72.7,15,60.7,75000,5452368,72.7,Alto
+ITA,Itagüí,Itagüí,LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,108.4,40,286.8,95000,10298881,81.3,Normal
+ITA,Itagüí,Itagüí,LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,587.4,200,1327.3,12000,7048918,88.1,Normal
+ITA,Itagüí,Itagüí,LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,85.0,20,182.1,185000,15729932,85.0,Alto
+ITA,Itagüí,Itagüí,LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,9.4,20,114.3,175000,1645720,9.4,Crítico
+ITA,Itagüí,Itagüí,LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,36.5,25,156.5,165000,6030649,36.5,Normal
+ITA,Itagüí,Itagüí,LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,99.7,25,191.0,172000,17151216,99.7,Alto
+ITA,Itagüí,Itagüí,LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,314.0,60,356.1,88000,27629745,157.0,Alto
+ITA,Itagüí,Itagüí,LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,151.6,50,494.7,92000,13945279,90.9,Alto
+ITA,Itagüí,Itagüí,LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,6.7,8,54.7,380000,2550527,6.7,Bajo
+ITA,Itagüí,Itagüí,LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,240.5,200,1854.1,8500,2044112,36.1,Normal
+ITA,Itagüí,Itagüí,CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,1204.1,300,2331.3,12000,14448882,120.4,Alto
+ITA,Itagüí,Itagüí,CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,191.2,200,1214.5,14500,2772040,28.7,Bajo
+ITA,Itagüí,Itagüí,CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,185.2,80,634.1,41000,7592887,69.4,Normal
+ITA,Itagüí,Itagüí,CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,275.9,50,245.9,68000,18761514,165.5,Alto
+ITA,Itagüí,Itagüí,CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,216.1,50,346.0,72000,15560766,129.7,Alto
+ITA,Itagüí,Itagüí,CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,491.8,400,2321.4,9500,4672524,36.9,Normal
+ITA,Itagüí,Itagüí,CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,349.5,150,631.0,22000,7687952,69.9,Normal
+ITA,Itagüí,Itagüí,CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,2972.3,500,2150.6,6500,19319856,178.3,Alto
+ITA,Itagüí,Itagüí,CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,552.5,500,2699.9,3200,1768009,33.2,Normal
+ITA,Itagüí,Itagüí,CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,731.3,150,1339.1,18000,13163311,146.3,Alto
+ITA,Itagüí,Itagüí,PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,529.8,300,2994.1,12500,6623068,53.0,Normal
+ITA,Itagüí,Itagüí,PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,667.5,150,643.3,19000,12682887,133.5,Alto
+ITA,Itagüí,Itagüí,PAN-003,Propionato de calcio,Panadería,kg,Univar,472.0,200,1769.6,16500,7788040,70.8,Normal
+ITA,Itagüí,Itagüí,PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,708.3,150,1442.3,24000,16999588,141.7,Alto
+ITA,Itagüí,Itagüí,PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,443.1,100,645.9,18000,7975370,132.9,Alto
+ITA,Itagüí,Itagüí,PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,92.1,40,160.2,58000,5339264,69.0,Normal
+ITA,Itagüí,Itagüí,PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,52.7,25,125.5,72000,3797123,52.7,Normal
+ITA,Itagüí,Itagüí,PAN-008,Monoglicérido destilado,Panadería,kg,BASF,440.4,100,525.4,21000,9248694,132.1,Alto
+ITA,Itagüí,Itagüí,SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,112.7,80,717.9,48000,5411739,42.3,Normal
+ITA,Itagüí,Itagüí,SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,225.1,60,390.2,62000,13958859,112.6,Alto
+ITA,Itagüí,Itagüí,SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,145.2,60,292.0,58000,8422328,72.6,Normal
+ITA,Itagüí,Itagüí,SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,354.8,100,517.3,18500,6563249,106.4,Alto
+ITA,Itagüí,Itagüí,SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,59.8,20,188.2,95000,5684664,59.8,Normal
+ITA,Itagüí,Itagüí,SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,88.7,20,160.5,125000,11084547,88.7,Alto
+ITA,Itagüí,Itagüí,SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,58.7,15,149.2,145000,8517892,58.7,Alto
+ITA,Itagüí,Itagüí,SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,229.1,500,2555.1,7800,1787149,13.7,Crítico
+ITA,Itagüí,Itagüí,SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,87.9,80,386.7,42000,3689893,32.9,Normal
+ITA,Itagüí,Itagüí,SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,143.0,50,356.9,55000,7864632,85.8,Normal
+ITA,Itagüí,Itagüí,ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,835.2,1000,7687.6,2800,2338433,25.1,Bajo
+ITA,Itagüí,Itagüí,ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,505.0,500,4461.0,6500,3282485,30.3,Normal
+ITA,Itagüí,Itagüí,ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,856.0,200,1620.2,18000,15408678,128.4,Alto
+ITA,Itagüí,Itagüí,ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,110.3,80,592.6,28000,3089287,41.4,Normal
+ITA,Itagüí,Itagüí,ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,557.9,100,767.8,22000,12273764,167.4,Alto
+ITA,Itagüí,Itagüí,ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,33.8,30,264.9,38000,1285484,33.8,Normal
+ITA,Itagüí,Itagüí,LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,48.2,10,59.9,185000,8922971,48.2,Alto
+ITA,Itagüí,Itagüí,LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,35.2,8,41.4,195000,6869488,35.2,Alto
+ITA,Itagüí,Itagüí,LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,15.9,8,76.1,220000,3506177,15.9,Normal
+ITA,Itagüí,Itagüí,LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,23.8,8,36.5,205000,4882599,23.8,Normal
+ITA,Itagüí,Itagüí,LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,65.0,20,117.6,85000,5525579,65.0,Alto
+ITA,Itagüí,Itagüí,LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,48.3,15,87.2,75000,3624053,48.3,Alto
+VIL,Villavicencio,Villavicencio,LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,54.7,40,197.9,95000,5195730,41.0,Normal
+VIL,Villavicencio,Villavicencio,LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,180.4,200,1261.7,12000,2165242,27.1,Bajo
+VIL,Villavicencio,Villavicencio,LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,44.1,20,198.1,185000,8164811,44.1,Normal
+VIL,Villavicencio,Villavicencio,LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,86.8,20,104.0,175000,15184447,86.8,Alto
+VIL,Villavicencio,Villavicencio,LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,144.1,25,163.2,165000,23777343,144.1,Alto
+VIL,Villavicencio,Villavicencio,LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,77.1,25,107.9,172000,13257086,77.1,Alto
+VIL,Villavicencio,Villavicencio,LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,260.3,60,324.4,88000,22903435,130.1,Alto
+VIL,Villavicencio,Villavicencio,LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,86.7,50,363.7,92000,7973293,52.0,Normal
+VIL,Villavicencio,Villavicencio,LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,38.1,8,57.2,380000,14470744,38.1,Alto
+VIL,Villavicencio,Villavicencio,LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,334.0,200,1969.7,8500,2838637,50.1,Normal
+VIL,Villavicencio,Villavicencio,CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,1070.6,300,1297.8,12000,12846625,107.1,Alto
+VIL,Villavicencio,Villavicencio,CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,914.3,200,1170.1,14500,13256911,137.1,Alto
+VIL,Villavicencio,Villavicencio,CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,116.8,80,688.7,41000,4787550,43.8,Normal
+VIL,Villavicencio,Villavicencio,CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,26.6,50,334.2,68000,1811113,16.0,Bajo
+VIL,Villavicencio,Villavicencio,CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,173.1,50,417.7,72000,12466710,103.9,Alto
+VIL,Villavicencio,Villavicencio,CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,917.4,400,3949.7,9500,8715094,68.8,Normal
+VIL,Villavicencio,Villavicencio,CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,541.1,150,1191.2,22000,11904055,108.2,Alto
+VIL,Villavicencio,Villavicencio,CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,1388.0,500,3664.6,6500,9021975,83.3,Normal
+VIL,Villavicencio,Villavicencio,CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,844.1,500,3118.9,3200,2700961,50.6,Normal
+VIL,Villavicencio,Villavicencio,CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,651.1,150,1222.1,18000,11720137,130.2,Alto
+VIL,Villavicencio,Villavicencio,PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,1762.9,300,2400.5,12500,22035901,176.3,Alto
+VIL,Villavicencio,Villavicencio,PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,195.3,150,893.2,19000,3711554,39.1,Normal
+VIL,Villavicencio,Villavicencio,PAN-003,Propionato de calcio,Panadería,kg,Univar,228.9,200,871.0,16500,3777510,34.3,Normal
+VIL,Villavicencio,Villavicencio,PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,110.3,150,838.5,24000,2647475,22.1,Bajo
+VIL,Villavicencio,Villavicencio,PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,222.1,100,966.3,18000,3997667,66.6,Normal
+VIL,Villavicencio,Villavicencio,PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,100.3,40,383.4,58000,5814657,75.2,Normal
+VIL,Villavicencio,Villavicencio,PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,93.3,25,181.0,72000,6714518,93.3,Alto
+VIL,Villavicencio,Villavicencio,PAN-008,Monoglicérido destilado,Panadería,kg,BASF,240.2,100,639.2,21000,5044799,72.1,Normal
+VIL,Villavicencio,Villavicencio,SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,435.7,80,638.3,48000,20911641,163.4,Alto
+VIL,Villavicencio,Villavicencio,SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,172.1,60,509.2,62000,10670671,86.1,Normal
+VIL,Villavicencio,Villavicencio,SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,236.6,60,522.7,58000,13723689,118.3,Alto
+VIL,Villavicencio,Villavicencio,SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,535.5,100,706.8,18500,9907129,160.7,Alto
+VIL,Villavicencio,Villavicencio,SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,57.2,20,140.6,95000,5433383,57.2,Normal
+VIL,Villavicencio,Villavicencio,SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,56.6,20,160.1,125000,7069541,56.6,Normal
+VIL,Villavicencio,Villavicencio,SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,49.3,15,85.8,145000,7143203,49.3,Alto
+VIL,Villavicencio,Villavicencio,SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,1605.0,500,4813.9,7800,12518879,96.3,Alto
+VIL,Villavicencio,Villavicencio,SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,399.4,80,795.1,42000,16775430,149.8,Alto
+VIL,Villavicencio,Villavicencio,SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,114.5,50,345.6,55000,6297551,68.7,Normal
+VIL,Villavicencio,Villavicencio,ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,5746.4,1000,7873.5,2800,16089989,172.4,Alto
+VIL,Villavicencio,Villavicencio,ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,798.0,500,3242.0,6500,5187232,47.9,Normal
+VIL,Villavicencio,Villavicencio,ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,658.9,200,957.1,18000,11860821,98.8,Alto
+VIL,Villavicencio,Villavicencio,ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,262.4,80,533.2,28000,7346126,98.4,Alto
+VIL,Villavicencio,Villavicencio,ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,361.6,100,691.7,22000,7954133,108.5,Alto
+VIL,Villavicencio,Villavicencio,ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,91.9,30,176.5,38000,3491987,91.9,Alto
+VIL,Villavicencio,Villavicencio,LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,33.5,10,65.6,185000,6197911,33.5,Alto
+VIL,Villavicencio,Villavicencio,LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,32.3,8,53.6,195000,6303351,32.3,Alto
+VIL,Villavicencio,Villavicencio,LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,21.1,8,66.1,220000,4650429,21.1,Normal
+VIL,Villavicencio,Villavicencio,LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,44.1,8,67.1,205000,9035128,44.1,Alto
+VIL,Villavicencio,Villavicencio,LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,94.8,20,172.2,85000,8058176,94.8,Alto
+VIL,Villavicencio,Villavicencio,LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,39.1,15,126.0,75000,2929425,39.1,Normal
+TUN,Tunja,Tunja,LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,59.0,40,389.2,95000,5606066,44.3,Normal
+TUN,Tunja,Tunja,LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,312.5,200,1151.8,12000,3749439,46.9,Normal
+TUN,Tunja,Tunja,LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,91.7,20,138.1,185000,16973077,91.7,Alto
+TUN,Tunja,Tunja,LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,115.6,20,111.0,175000,20228727,115.6,Alto
+TUN,Tunja,Tunja,LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,141.0,25,199.1,165000,23273037,141.0,Alto
+TUN,Tunja,Tunja,LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,92.2,25,190.9,172000,15860421,92.2,Alto
+TUN,Tunja,Tunja,LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,341.7,60,587.3,88000,30072649,170.9,Alto
+TUN,Tunja,Tunja,LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,52.1,50,408.1,92000,4792194,31.3,Normal
+TUN,Tunja,Tunja,LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,4.7,8,37.7,380000,1790247,4.7,Bajo
+TUN,Tunja,Tunja,LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,693.0,200,976.9,8500,5890259,103.9,Alto
+TUN,Tunja,Tunja,CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,1285.7,300,2001.9,12000,15428821,128.6,Alto
+TUN,Tunja,Tunja,CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,501.7,200,1870.6,14500,7274868,75.3,Normal
+TUN,Tunja,Tunja,CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,433.5,80,737.3,41000,17773015,162.6,Alto
+TUN,Tunja,Tunja,CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,253.9,50,403.4,68000,17266990,152.4,Alto
+TUN,Tunja,Tunja,CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,147.9,50,477.8,72000,10649290,88.7,Normal
+TUN,Tunja,Tunja,CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,1316.3,400,2807.4,9500,12505149,98.7,Alto
+TUN,Tunja,Tunja,CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,856.4,150,1014.2,22000,18840857,171.3,Alto
+TUN,Tunja,Tunja,CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,1217.1,500,2274.5,6500,7911132,73.0,Normal
+TUN,Tunja,Tunja,CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,2368.2,500,4719.3,3200,7578259,142.1,Alto
+TUN,Tunja,Tunja,CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,617.4,150,859.5,18000,11112913,123.5,Alto
+TUN,Tunja,Tunja,PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,1014.9,300,1203.5,12500,12686228,101.5,Alto
+TUN,Tunja,Tunja,PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,579.4,150,1426.6,19000,11008095,115.9,Alto
+TUN,Tunja,Tunja,PAN-003,Propionato de calcio,Panadería,kg,Univar,164.6,200,1890.9,16500,2716122,24.7,Bajo
+TUN,Tunja,Tunja,PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,634.8,150,1080.3,24000,15234505,127.0,Alto
+TUN,Tunja,Tunja,PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,525.2,100,420.0,18000,9453211,157.6,Alto
+TUN,Tunja,Tunja,PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,209.7,40,221.6,58000,12163470,157.3,Alto
+TUN,Tunja,Tunja,PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,147.4,25,142.0,72000,10613497,147.4,Alto
+TUN,Tunja,Tunja,PAN-008,Monoglicérido destilado,Panadería,kg,BASF,519.5,100,932.5,21000,10910305,155.9,Alto
+TUN,Tunja,Tunja,SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,211.9,80,650.0,48000,10169297,79.4,Normal
+TUN,Tunja,Tunja,SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,221.3,60,404.9,62000,13719223,110.6,Alto
+TUN,Tunja,Tunja,SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,110.1,60,336.2,58000,6387546,55.1,Normal
+TUN,Tunja,Tunja,SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,336.2,100,691.2,18500,6219132,100.9,Alto
+TUN,Tunja,Tunja,SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,91.4,20,175.7,95000,8685696,91.4,Alto
+TUN,Tunja,Tunja,SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,81.3,20,155.0,125000,10159376,81.3,Alto
+TUN,Tunja,Tunja,SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,10.9,15,138.4,145000,1577683,10.9,Bajo
+TUN,Tunja,Tunja,SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,369.4,500,3711.9,7800,2881282,22.2,Bajo
+TUN,Tunja,Tunja,SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,245.1,80,372.8,42000,10293907,91.9,Alto
+TUN,Tunja,Tunja,SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,225.5,50,317.5,55000,12402569,135.3,Alto
+TUN,Tunja,Tunja,ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,4824.2,1000,8911.9,2800,13507755,144.7,Alto
+TUN,Tunja,Tunja,ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,216.8,500,3739.1,6500,1409420,13.0,Crítico
+TUN,Tunja,Tunja,ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,293.0,200,828.0,18000,5274132,44.0,Normal
+TUN,Tunja,Tunja,ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,238.5,80,448.8,28000,6677410,89.4,Normal
+TUN,Tunja,Tunja,ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,124.6,100,628.0,22000,2742277,37.4,Normal
+TUN,Tunja,Tunja,ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,15.6,30,137.4,38000,594057,15.6,Bajo
+TUN,Tunja,Tunja,LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,4.0,10,44.1,185000,746248,4.0,Crítico
+TUN,Tunja,Tunja,LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,23.2,8,33.5,195000,4531595,23.2,Normal
+TUN,Tunja,Tunja,LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,22.0,8,64.4,220000,4830265,22.0,Normal
+TUN,Tunja,Tunja,LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,30.8,8,44.6,205000,6308778,30.8,Alto
+TUN,Tunja,Tunja,LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,87.6,20,155.9,85000,7448924,87.6,Alto
+TUN,Tunja,Tunja,LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,86.3,15,85.6,75000,6475351,86.3,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,695.5,40,603.9,95000,66068932,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,1154.9,200,4679.2,12000,13858615,173.2,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,101.8,20,311.7,185000,18841722,101.8,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,345.9,20,472.6,175000,60530027,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,442.2,25,690.5,165000,72959473,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,192.9,25,444.9,172000,33173296,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,324.3,60,1526.8,88000,28537811,162.1,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,300.7,50,903.4,92000,27659968,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,113.3,8,154.7,380000,43072511,113.3,Alto
+MOS,CEDI Mosquera,Mosquera,LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,327.4,200,2432.0,8500,2783176,49.1,Normal
+MOS,CEDI Mosquera,Mosquera,CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,3582.6,300,3619.9,12000,42991208,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,1822.8,200,3719.7,14500,26430197,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,369.0,80,1631.5,41000,15129659,138.4,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,216.8,50,1311.5,68000,14742550,130.1,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,681.1,50,1215.8,72000,49038895,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,5245.8,400,6639.5,9500,49834769,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,1505.2,150,2385.9,22000,33115194,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,1823.5,500,12452.8,6500,11853015,109.4,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,1719.5,500,12094.3,3200,5502420,103.2,Alto
+MOS,CEDI Mosquera,Mosquera,CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,1059.9,150,1992.2,18000,19078538,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,1111.8,300,4778.8,12500,13897104,111.2,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,2100.3,150,2497.8,19000,39906484,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-003,Propionato de calcio,Panadería,kg,Univar,3388.4,200,5498.1,16500,55908442,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,1764.3,150,4368.2,24000,42342092,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,632.7,100,2448.3,18000,11389133,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,282.2,40,1124.4,58000,16369474,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,359.6,25,630.7,72000,25893077,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,PAN-008,Monoglicérido destilado,Panadería,kg,BASF,173.8,100,2960.2,21000,3649818,52.1,Normal
+MOS,CEDI Mosquera,Mosquera,SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,729.7,80,1321.6,48000,35026365,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,803.3,60,1581.2,62000,49807060,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,935.9,60,801.5,58000,54284423,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,1556.8,100,1942.4,18500,28801188,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,332.4,20,558.2,95000,31582233,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,277.1,20,522.9,125000,34642172,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,158.2,15,317.8,145000,22936735,158.2,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,4931.7,500,10648.8,7800,38467562,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,536.8,80,1263.4,42000,22546303,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,662.9,50,759.6,55000,36457697,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,5286.3,1000,19567.6,2800,14801515,158.6,Alto
+MOS,CEDI Mosquera,Mosquera,ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,8121.6,500,13193.5,6500,52790573,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,3190.6,200,2416.7,18000,57430533,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,1050.0,80,998.5,28000,29399456,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,516.1,100,2778.5,22000,11354059,154.8,Alto
+MOS,CEDI Mosquera,Mosquera,ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,399.0,30,869.5,38000,15160679,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,45.5,10,297.1,185000,8422001,45.5,Alto
+MOS,CEDI Mosquera,Mosquera,LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,98.5,8,114.5,195000,19212245,98.5,Alto
+MOS,CEDI Mosquera,Mosquera,LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,119.1,8,170.2,220000,26203512,119.1,Alto
+MOS,CEDI Mosquera,Mosquera,LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,9.9,8,157.8,205000,2022886,9.9,Normal
+MOS,CEDI Mosquera,Mosquera,LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,247.7,20,414.6,85000,21058093,180.0,Alto
+MOS,CEDI Mosquera,Mosquera,LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,144.5,15,264.3,75000,10840089,144.5,Alto
+SIB,CEDI Siberia,Siberia,LAC-001,Cuajo Chymostar® líquido,Lácteos,litro,Chr. Hansen,530.6,40,914.5,95000,50402779,180.0,Alto
+SIB,CEDI Siberia,Siberia,LAC-002,Cuajo Marschall® pastilla,Lácteos,sobre,Chr. Hansen,1143.3,200,3248.3,12000,13720075,171.5,Alto
+SIB,CEDI Siberia,Siberia,LAC-003,Choozit® MA 4001,Lácteos,dosis,Danisco,143.1,20,487.2,185000,26466145,143.1,Alto
+SIB,CEDI Siberia,Siberia,LAC-004,Choozit® MM 100,Lácteos,dosis,Danisco,113.9,20,510.1,175000,19933994,113.9,Alto
+SIB,CEDI Siberia,Siberia,LAC-005,Yomix® 883 (yogurt),Lácteos,dosis,Danisco,96.2,25,639.7,165000,15868083,96.2,Alto
+SIB,CEDI Siberia,Siberia,LAC-006,Yomix® Prime 800,Lácteos,dosis,Danisco,110.4,25,503.5,172000,18994864,110.4,Alto
+SIB,CEDI Siberia,Siberia,LAC-007,Lactogel® FX 7720,Lácteos,kg,Danisco,777.8,60,1277.1,88000,68443400,180.0,Alto
+SIB,CEDI Siberia,Siberia,LAC-008,Cremodan® SE 709-2,Lácteos,kg,Danisco,194.4,50,1074.7,92000,17887208,116.7,Alto
+SIB,CEDI Siberia,Siberia,LAC-009,Nisaplin® (Nisin A),Lácteos,kg,Danisco,10.2,8,228.7,380000,3891564,10.2,Normal
+SIB,CEDI Siberia,Siberia,LAC-010,Cloruro de calcio alimentario,Lácteos,kg,Brenntag,2667.9,200,5030.0,8500,22677321,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-001,Tripolifosfato sódico STPP,Cárnicos,kg,BASF,4700.4,300,8438.7,12000,56404897,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-002,Eritorbato de sodio,Cárnicos,kg,Brenntag,3419.0,200,2941.0,14500,49575080,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-003,Carragenina Iota cárnicos,Cárnicos,kg,Kerry Group,853.8,80,1177.4,41000,35004600,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-004,Condimento chorizo especial,Cárnicos,kg,Givaudan,378.5,50,740.8,68000,25735501,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-005,Condimento mortadela premium,Cárnicos,kg,IFF,846.3,50,1313.4,72000,60933711,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-006,Proteína de soya texturizada,Cárnicos,kg,Brenntag,3409.8,400,7110.4,9500,32393553,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-007,Proteína aislada de soya 90%,Cárnicos,kg,Brenntag,1682.4,150,3966.4,22000,37012157,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-008,Almidón de papa para cárnicos,Cárnicos,kg,Ingredion,3361.4,500,14077.8,6500,21848989,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-009,Sal Refisal® curación,Cárnicos,kg,Refisal,5205.4,500,7688.0,3200,16657212,180.0,Alto
+SIB,CEDI Siberia,Siberia,CAR-010,Nitrito de sodio 99%,Cárnicos,kg,Univar,2400.1,150,3060.2,18000,43202174,180.0,Alto
+SIB,CEDI Siberia,Siberia,PAN-001,Levadura seca instantánea,Panadería,kg,Lesaffre,589.1,300,4080.3,12500,7364109,58.9,Normal
+SIB,CEDI Siberia,Siberia,PAN-002,Mejorizador panadera CM-5,Panadería,kg,Kerry Group,1873.0,150,2269.7,19000,35587169,180.0,Alto
+SIB,CEDI Siberia,Siberia,PAN-003,Propionato de calcio,Panadería,kg,Univar,567.4,200,3571.6,16500,9362046,85.1,Normal
+SIB,CEDI Siberia,Siberia,PAN-004,Ácido ascórbico E300,Panadería,kg,Brenntag,2101.0,150,4193.4,24000,50424099,180.0,Alto
+SIB,CEDI Siberia,Siberia,PAN-005,DATEM emulsificante pan,Panadería,kg,BASF,308.0,100,2791.9,18000,5543264,92.4,Alto
+SIB,CEDI Siberia,Siberia,PAN-006,Enzima amilasa fungal,Panadería,kg,DSM,468.1,40,706.9,58000,27149006,180.0,Alto
+SIB,CEDI Siberia,Siberia,PAN-007,Enzima xilanasa panadera,Panadería,kg,DSM,446.4,25,335.5,72000,32144386,180.0,Alto
+SIB,CEDI Siberia,Siberia,PAN-008,Monoglicérido destilado,Panadería,kg,BASF,991.2,100,2987.1,21000,20816233,180.0,Alto
+SIB,CEDI Siberia,Siberia,SAB-001,Sabor artificial vainilla,Sabores & Colorantes,kg,Vasanico,1355.2,80,2390.9,48000,65050412,180.0,Alto
+SIB,CEDI Siberia,Siberia,SAB-002,Sabor natural fresa premium,Sabores & Colorantes,kg,Vasanico,157.3,60,1377.8,62000,9752332,78.6,Normal
+SIB,CEDI Siberia,Siberia,SAB-003,Sabor natural durazno,Sabores & Colorantes,kg,Vasanico,371.8,60,856.6,58000,21563976,180.0,Alto
+SIB,CEDI Siberia,Siberia,SAB-004,Colorante caramelo IV,Sabores & Colorantes,kg,Brenntag,1026.6,100,2682.6,18500,18992512,180.0,Alto
+SIB,CEDI Siberia,Siberia,SAB-005,Colorante curcumina natural,Sabores & Colorantes,kg,Chr. Hansen,263.2,20,539.1,95000,25006607,180.0,Alto
+SIB,CEDI Siberia,Siberia,SAB-006,Sucralosa,Sabores & Colorantes,kg,Univar,113.3,20,533.4,125000,14158211,113.3,Alto
+SIB,CEDI Siberia,Siberia,SAB-007,Stevia RA97,Sabores & Colorantes,kg,Ingredion,37.5,15,369.1,145000,5440392,37.5,Normal
+SIB,CEDI Siberia,Siberia,SAB-008,Ácido cítrico anhidro,Sabores & Colorantes,kg,Brenntag,4692.6,500,12206.8,7800,36602088,180.0,Alto
+SIB,CEDI Siberia,Siberia,SAB-009,Goma xantana,Sabores & Colorantes,kg,CP Kelco,1031.7,80,1443.0,42000,43332640,180.0,Alto
+SIB,CEDI Siberia,Siberia,SAB-010,Pectina HM cítrica,Sabores & Colorantes,kg,CP Kelco,708.2,50,606.1,55000,38952833,180.0,Alto
+SIB,CEDI Siberia,Siberia,ASE-001,Hipoclorito de sodio 15%,Aseo & Desinfección,litro,Coyabra,8434.1,1000,21643.8,2800,23615419,180.0,Alto
+SIB,CEDI Siberia,Siberia,ASE-002,Alcohol etílico 96°,Aseo & Desinfección,litro,Coyabra,2881.5,500,10767.3,6500,18729719,172.9,Alto
+SIB,CEDI Siberia,Siberia,ASE-003,Detergente alcalino CIP-100,Aseo & Desinfección,kg,Ecolab,1008.1,200,4621.2,18000,18145612,151.2,Alto
+SIB,CEDI Siberia,Siberia,ASE-004,Ácido peracético 15%,Aseo & Desinfección,litro,PeroxyChem,1144.1,80,2295.5,28000,32034822,180.0,Alto
+SIB,CEDI Siberia,Siberia,ASE-005,Amonio cuaternario QAT-50,Aseo & Desinfección,litro,Univar,1321.5,100,2790.9,22000,29073505,180.0,Alto
+SIB,CEDI Siberia,Siberia,ASE-006,Cepillo VIKAN higiene azul,Aseo & Desinfección,unidad,Vikan,298.7,30,403.7,38000,11348923,180.0,Alto
+SIB,CEDI Siberia,Siberia,LAB-001,Agar PCA recuento total,Laboratorio,500g,Merck,115.7,10,246.7,185000,21400638,115.7,Alto
+SIB,CEDI Siberia,Siberia,LAB-002,Agar VRBD coliformes,Laboratorio,500g,Merck,81.6,8,194.6,195000,15911061,81.6,Alto
+SIB,CEDI Siberia,Siberia,LAB-003,Agar Baird-Parker S. aureus,Laboratorio,500g,Merck,85.0,8,187.2,220000,18694120,85.0,Alto
+SIB,CEDI Siberia,Siberia,LAB-004,Agar Salmonella-Shigella,Laboratorio,500g,Merck,88.3,8,107.3,205000,18092671,88.3,Alto
+SIB,CEDI Siberia,Siberia,LAB-005,Kit coloración Gram,Laboratorio,kit,Merck,193.6,20,407.8,85000,16453972,180.0,Alto
+SIB,CEDI Siberia,Siberia,LAB-006,Prueba rápida coliformes,Laboratorio,caja,Confía Control,245.8,15,200.2,75000,18434721,180.0,Alto

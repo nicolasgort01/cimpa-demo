@@ -1,0 +1,23 @@
+cliente_id,nombre,sector,ciudad,depto,credito_dias,cupo_credito_cop,sede_principal
+CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,60,800000000,BOG-AME
+CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,45,600000000,ITA
+CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,60,700000000,BOG-AME
+CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,60,400000000,MOS
+CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,30,120000000,TUN
+CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,30,100000000,VIL
+CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,30,350000000,BOG-AME
+CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,45,500000000,ITA
+CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,30,300000000,BOG-QUI
+CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,45,180000000,MOS
+CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,30,150000000,VIL
+CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,30,400000000,BOG-AME
+CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,45,350000000,ITA
+CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,30,200000000,BOG-AME
+CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,60,600000000,SIB
+CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,45,450000000,BOG-QUI
+CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,30,250000000,BOG-AME
+CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,30,150000000,BOG-QUI
+CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,30,120000000,ITA
+CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,30,200000000,MOS
+CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,30,100000000,BOG-AME
+CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,30,130000000,VIL

@@ -1,0 +1,69 @@
+oc_id,proveedor_id,proveedor,pais_origen,moneda,categoria,fecha_orden,fecha_entrega_esperada,fecha_entrega_real,lead_time_dias,estado,valor_usd,valor_cop,productos,n_skus
+OC-500,PRO-015,PeroxyChem,EEUU,USD,Sabores & Colorantes,2026-08-15,2026-09-16,,32,En tránsito,40304.0,169276800,Sabor artificial vainilla,1
+OC-501,PRO-002,DSM Nutritional,Países Bajos,EUR,Cárnicos,2026-06-09,2026-08-06,2026-08-12,58,Recibida,66884.0,280912800,Almidón de papa para cárnicos | Goma xantana | DATEM emulsificante pan | Condimento mortadela premium,4
+OC-502,PRO-007,IFF Colombia,Colombia,COP,Cárnicos,2026-08-04,2026-08-21,2026-08-25,17,Recibida,83496.0,350683200,Agar Salmonella-Shigella | Detergente alcalino CIP-100 | Eritorbato de sodio | Nitrito de sodio 99%,4
+OC-503,PRO-013,Ecolab Colombia,Colombia,COP,Aseo & Desinfección,2026-07-05,2026-07-16,2026-07-18,11,Recibida,52445.0,220269000,Sucralosa | Alcohol etílico 96°,2
+OC-504,PRO-011,Chr. Hansen,Dinamarca,EUR,Aseo & Desinfección,2026-08-17,2026-09-18,,32,En tránsito,10513.0,44154600,Cuajo Marschall® pastilla | Alcohol etílico 96°,2
+OC-505,PRO-010,Lesaffre,Francia,EUR,Cárnicos,2026-06-21,2026-07-08,2026-07-15,17,Recibida,55815.0,234423000,Sabor natural durazno | Proteína de soya texturizada,2
+OC-506,PRO-006,Givaudan Colombia,Colombia,COP,Aseo & Desinfección,2026-05-29,2026-06-13,2026-06-20,15,Recibida,6641.0,27892200,Hipoclorito de sodio 15% | Yomix® 883 (yogurt),2
+OC-507,PRO-012,Ingredion Colombia,Colombia,COP,Cárnicos,2026-08-03,2026-08-15,2026-08-21,12,Recibida,15403.0,64692600,Almidón de papa para cárnicos | Choozit® MM 100,2
+OC-508,PRO-003,Kerry Group,Irlanda,USD,Cárnicos,2026-07-30,2026-09-14,,46,En tránsito,85795.0,360339000,Cloruro de calcio alimentario | Almidón de papa para cárnicos | Sabor artificial vainilla | Monoglicérido destilado,4
+OC-509,PRO-001,BASF SE,Alemania,EUR,Cárnicos,2026-07-07,2026-08-19,2026-08-23,43,Recibida,71900.0,301980000,Proteína aislada de soya 90% | Prueba rápida coliformes,2
+OC-510,PRO-008,Merck KGaA,Alemania,EUR,Aseo & Desinfección,2026-07-12,2026-08-29,,48,En aduana,85028.0,357117600,Propionato de calcio | Detergente alcalino CIP-100 | Choozit® MM 100,3
+OC-511,PRO-001,BASF SE,Alemania,EUR,Lácteos,2026-06-20,2026-07-20,2026-07-26,30,Recibida,31579.0,132631800,Cuajo Chymostar® líquido,1
+OC-512,PRO-006,Givaudan Colombia,Colombia,COP,Aseo & Desinfección,2026-07-31,2026-08-19,2026-08-24,19,Recibida,19272.0,80942400,Prueba rápida coliformes | Detergente alcalino CIP-100 | Almidón de papa para cárnicos,3
+OC-513,PRO-003,Kerry Group,Irlanda,USD,Aseo & Desinfección,2026-06-03,2026-07-24,2026-07-30,51,Recibida,67963.0,285444600,Detergente alcalino CIP-100 | Almidón de papa para cárnicos | Cepillo VIKAN higiene azul | Cremodan® SE 709-2,4
+OC-514,PRO-002,DSM Nutritional,Países Bajos,EUR,Aseo & Desinfección,2026-08-17,2026-10-13,,57,En aduana,45576.0,191419200,Alcohol etílico 96°,1
+OC-515,PRO-003,Kerry Group,Irlanda,USD,Aseo & Desinfección,2026-08-19,2026-10-09,,51,En tránsito,65525.0,275205000,Colorante caramelo IV | Mejorizador panadera CM-5 | Detergente alcalino CIP-100 | Amonio cuaternario QAT-50,4
+OC-516,PRO-007,IFF Colombia,Colombia,COP,Sabores & Colorantes,2026-07-19,2026-08-02,2026-08-08,14,Recibida,20269.0,85129800,Sucralosa | Sabor natural fresa premium,2
+OC-517,PRO-009,CP Kelco,EEUU,USD,Laboratorio,2026-08-13,2026-10-09,,57,En tránsito,3137.0,13175400,Prueba rápida coliformes | Pectina HM cítrica,2
+OC-518,PRO-014,Coyabra,Colombia,COP,Aseo & Desinfección,2026-06-30,2026-07-06,2026-07-10,6,Recibida,6037.0,25355400,Lactogel® FX 7720 | Amonio cuaternario QAT-50 | Enzima xilanasa panadera | Ácido cítrico anhidro,4
+OC-519,PRO-014,Coyabra,Colombia,COP,Aseo & Desinfección,2026-06-03,2026-06-07,2026-06-10,4,Recibida,18384.0,77212800,Detergente alcalino CIP-100,1
+OC-520,PRO-001,BASF SE,Alemania,EUR,Panadería,2026-06-01,2026-07-12,2026-07-12,41,Recibida,14614.0,61378800,Monoglicérido destilado,1
+OC-521,PRO-015,PeroxyChem,EEUU,USD,Sabores & Colorantes,2026-06-08,2026-07-05,2026-07-08,27,Recibida,59504.0,249916800,Ácido ascórbico E300 | Cremodan® SE 709-2 | Sucralosa | Ácido cítrico anhidro,4
+OC-522,PRO-002,DSM Nutritional,Países Bajos,EUR,Lácteos,2026-07-19,2026-09-08,,51,En tránsito,36918.0,155055600,Alcohol etílico 96° | Cremodan® SE 709-2 | Lactogel® FX 7720,3
+OC-523,PRO-006,Givaudan Colombia,Colombia,COP,Lácteos,2026-06-12,2026-06-26,2026-06-27,14,Recibida,69600.0,292320000,Yomix® 883 (yogurt) | Carragenina Iota cárnicos | Lactogel® FX 7720,3
+OC-524,PRO-010,Lesaffre,Francia,EUR,Lácteos,2026-06-03,2026-06-28,2026-07-04,25,Recibida,82643.0,347100600,Yomix® Prime 800,1
+OC-525,PRO-014,Coyabra,Colombia,COP,Aseo & Desinfección,2026-05-27,2026-06-01,2026-06-08,5,Recibida,14541.0,61072200,Enzima amilasa fungal | Alcohol etílico 96°,2
+OC-526,PRO-006,Givaudan Colombia,Colombia,COP,Aseo & Desinfección,2026-07-24,2026-08-10,2026-08-17,17,Recibida,83964.0,352648800,Cepillo VIKAN higiene azul | Ácido peracético 15% | Hipoclorito de sodio 15%,3
+OC-527,PRO-014,Coyabra,Colombia,COP,Aseo & Desinfección,2026-08-01,2026-08-05,2026-08-07,4,Recibida,76363.0,320724600,Hipoclorito de sodio 15%,1
+OC-528,PRO-014,Coyabra,Colombia,COP,Sabores & Colorantes,2026-06-10,2026-06-15,2026-06-21,5,Recibida,32374.0,135970800,Sabor natural fresa premium | Ácido cítrico anhidro,2
+OC-529,PRO-001,BASF SE,Alemania,EUR,Cárnicos,2026-05-27,2026-06-28,2026-07-01,32,Recibida,34108.0,143253600,Eritorbato de sodio | Stevia RA97 | Agar VRBD coliformes,3
+OC-530,PRO-015,PeroxyChem,EEUU,USD,Cárnicos,2026-08-02,2026-09-02,,31,En tránsito,57351.0,240874200,Lactogel® FX 7720 | Nitrito de sodio 99%,2
+OC-531,PRO-001,BASF SE,Alemania,EUR,Laboratorio,2026-06-03,2026-07-05,2026-07-12,32,Recibida,36149.0,151825800,Agar PCA recuento total,1
+OC-532,PRO-015,PeroxyChem,EEUU,USD,Sabores & Colorantes,2026-07-10,2026-08-15,2026-08-18,36,Recibida,51468.0,216165600,Pectina HM cítrica | Condimento chorizo especial | Sabor natural durazno,3
+OC-533,PRO-006,Givaudan Colombia,Colombia,COP,Cárnicos,2026-08-06,2026-08-18,2026-08-19,12,Recibida,61522.0,258392400,Almidón de papa para cárnicos | Enzima xilanasa panadera | Kit coloración Gram | Choozit® MM 100,4
+OC-534,PRO-008,Merck KGaA,Alemania,EUR,Cárnicos,2026-07-06,2026-08-29,,54,En aduana,29323.0,123156600,Sal Refisal® curación | Agar Baird-Parker S. aureus,2
+OC-535,PRO-007,IFF Colombia,Colombia,COP,Laboratorio,2026-08-07,2026-08-21,2026-08-25,14,Recibida,29428.0,123597600,Cuajo Marschall® pastilla | Agar Baird-Parker S. aureus,2
+OC-536,PRO-006,Givaudan Colombia,Colombia,COP,Cárnicos,2026-06-18,2026-07-01,2026-07-08,13,Recibida,4157.0,17459400,Proteína de soya texturizada | Proteína aislada de soya 90% | Sabor natural durazno | Kit coloración Gram,4
+OC-537,PRO-015,PeroxyChem,EEUU,USD,Lácteos,2026-07-31,2026-08-25,,25,Confirmada,74545.0,313089000,DATEM emulsificante pan | Cuajo Marschall® pastilla | Pectina HM cítrica,3
+OC-538,PRO-004,Brenntag Colombia,Colombia,COP,Aseo & Desinfección,2026-07-24,2026-08-02,2026-08-02,9,Recibida,92342.0,387836400,Agar PCA recuento total | Hipoclorito de sodio 15%,2
+OC-539,PRO-005,Univar Solutions,EEUU,USD,Laboratorio,2026-06-29,2026-08-05,2026-08-12,37,Recibida,4900.0,20580000,Condimento chorizo especial | Prueba rápida coliformes | Agar PCA recuento total | Enzima amilasa fungal,4
+OC-540,PRO-002,DSM Nutritional,Países Bajos,EUR,Sabores & Colorantes,2026-06-21,2026-08-16,2026-08-17,56,Recibida,12164.0,51088800,Sabor artificial vainilla,1
+OC-541,PRO-010,Lesaffre,Francia,EUR,Lácteos,2026-07-07,2026-07-26,2026-08-02,19,Recibida,82880.0,348096000,Cremodan® SE 709-2 | Choozit® MA 4001,2
+OC-542,PRO-012,Ingredion Colombia,Colombia,COP,Lácteos,2026-06-08,2026-06-19,2026-06-22,11,Recibida,43693.0,183510600,Yomix® Prime 800,1
+OC-543,PRO-003,Kerry Group,Irlanda,USD,Aseo & Desinfección,2026-07-07,2026-08-16,2026-08-16,40,Recibida,86967.0,365261400,Cepillo VIKAN higiene azul,1
+OC-544,PRO-010,Lesaffre,Francia,EUR,Cárnicos,2026-08-11,2026-09-04,,24,En aduana,41172.0,172922400,Nitrito de sodio 99% | Goma xantana | Sabor artificial vainilla | Condimento mortadela premium,4
+OC-545,PRO-010,Lesaffre,Francia,EUR,Panadería,2026-08-11,2026-08-27,,16,En aduana,62069.0,260689800,Enzima xilanasa panadera | Proteína de soya texturizada | Kit coloración Gram | Mejorizador panadera CM-5,4
+OC-546,PRO-011,Chr. Hansen,Dinamarca,EUR,Laboratorio,2026-07-01,2026-07-25,2026-07-29,24,Recibida,71005.0,298221000,Agar Salmonella-Shigella,1
+OC-547,PRO-009,CP Kelco,EEUU,USD,Panadería,2026-06-08,2026-08-09,2026-08-11,62,Recibida,8460.0,35532000,Propionato de calcio,1
+OC-548,PRO-006,Givaudan Colombia,Colombia,COP,Cárnicos,2026-06-08,2026-06-23,2026-06-29,15,Recibida,17258.0,72483600,Colorante curcumina natural | Nitrito de sodio 99% | Propionato de calcio | Kit coloración Gram,4
+OC-549,PRO-008,Merck KGaA,Alemania,EUR,Cárnicos,2026-06-05,2026-07-12,2026-07-19,37,Recibida,79479.0,333811800,Condimento mortadela premium | Goma xantana,2
+OC-550,PRO-015,PeroxyChem,EEUU,USD,Panadería,2026-06-23,2026-07-30,2026-08-04,37,Recibida,89194.0,374614800,Mejorizador panadera CM-5 | Enzima xilanasa panadera,2
+OC-551,PRO-007,IFF Colombia,Colombia,COP,Laboratorio,2026-06-15,2026-07-01,2026-07-04,16,Recibida,38566.0,161977200,Cremodan® SE 709-2 | Agar Baird-Parker S. aureus | Sabor natural fresa premium,3
+OC-552,PRO-015,PeroxyChem,EEUU,USD,Cárnicos,2026-07-25,2026-08-23,,29,Confirmada,77673.0,326226600,Proteína aislada de soya 90% | Choozit® MM 100,2
+OC-553,PRO-009,CP Kelco,EEUU,USD,Aseo & Desinfección,2026-08-16,2026-10-10,,55,En tránsito,58048.0,243801600,Yomix® 883 (yogurt) | Alcohol etílico 96°,2
+OC-554,PRO-007,IFF Colombia,Colombia,COP,Aseo & Desinfección,2026-08-17,2026-08-31,,14,En tránsito,59285.0,248997000,Ácido ascórbico E300 | Alcohol etílico 96°,2
+OC-555,PRO-002,DSM Nutritional,Países Bajos,EUR,Aseo & Desinfección,2026-08-05,2026-09-29,,55,En tránsito,49206.0,206665200,Enzima xilanasa panadera | Cepillo VIKAN higiene azul,2
+OC-556,PRO-003,Kerry Group,Irlanda,USD,Laboratorio,2026-07-30,2026-09-24,,56,En tránsito,63095.0,264999000,Agar PCA recuento total,1
+OC-557,PRO-001,BASF SE,Alemania,EUR,Cárnicos,2026-07-01,2026-08-15,2026-08-18,45,Recibida,55202.0,231848400,Nisaplin® (Nisin A) | Prueba rápida coliformes | Nitrito de sodio 99%,3
+OC-558,PRO-006,Givaudan Colombia,Colombia,COP,Cárnicos,2026-07-25,2026-08-07,2026-08-11,13,Recibida,37874.0,159070800,Sucralosa | Yomix® 883 (yogurt) | Proteína aislada de soya 90% | Almidón de papa para cárnicos,4
+OC-559,PRO-007,IFF Colombia,Colombia,COP,Panadería,2026-07-05,2026-07-19,2026-07-26,14,Recibida,73930.0,310506000,Enzima xilanasa panadera,1
+OC-560,PRO-013,Ecolab Colombia,Colombia,COP,Laboratorio,2026-06-01,2026-06-12,2026-06-15,11,Recibida,58627.0,246233400,Agar Salmonella-Shigella,1
+OC-561,PRO-009,CP Kelco,EEUU,USD,Aseo & Desinfección,2026-08-10,2026-09-25,,46,Confirmada,22627.0,95033400,Prueba rápida coliformes | Eritorbato de sodio | Alcohol etílico 96°,3
+OC-562,PRO-007,IFF Colombia,Colombia,COP,Lácteos,2026-07-25,2026-08-11,2026-08-13,17,Recibida,13879.0,58291800,Choozit® MM 100 | Kit coloración Gram | Sabor artificial vainilla | Cremodan® SE 709-2,4
+OC-563,PRO-001,BASF SE,Alemania,EUR,Cárnicos,2026-08-07,2026-09-15,,39,En tránsito,34241.0,143812200,Condimento mortadela premium | DATEM emulsificante pan,2
+OC-564,PRO-012,Ingredion Colombia,Colombia,COP,Cárnicos,2026-06-20,2026-06-28,2026-07-05,8,Recibida,35744.0,150124800,Cuajo Chymostar® líquido | Proteína de soya texturizada | Carragenina Iota cárnicos | Cremodan® SE 709-2,4
+OC-565,PRO-004,Brenntag Colombia,Colombia,COP,Cárnicos,2026-07-21,2026-07-28,2026-08-01,7,Recibida,46061.0,193456200,Condimento mortadela premium | Mejorizador panadera CM-5,2
+OC-566,PRO-001,BASF SE,Alemania,EUR,Cárnicos,2026-05-26,2026-06-26,2026-06-28,31,Recibida,78594.0,330094800,Agar PCA recuento total | Tripolifosfato sódico STPP | Sucralosa,3
+OC-567,PRO-008,Merck KGaA,Alemania,EUR,Lácteos,2026-06-27,2026-08-20,2026-08-22,54,Recibida,73393.0,308250600,Cremodan® SE 709-2 | DATEM emulsificante pan,2

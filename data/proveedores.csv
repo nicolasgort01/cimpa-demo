@@ -1,0 +1,16 @@
+proveedor_id,proveedor,pais,moneda,lead_time_avg_dias,especialidad,score_calidad,score_puntualidad,score_precio,score_general
+PRO-001,BASF SE,Alemania,EUR,35,"Química industrial, emulsificantes, fosfatos",9.1,8.5,7.8,8.56
+PRO-002,DSM Nutritional,Países Bajos,EUR,50,"Enzimas, vitaminas, cultivos, conservantes",9.4,8.8,7.2,8.64
+PRO-003,Kerry Group,Irlanda,USD,45,"Ingredientes funcionales, carrageninas, mejorizadores",8.8,8.4,7.5,8.34
+PRO-004,Brenntag Colombia,Colombia,COP,7,"Distribución de químicos, ácidos, conservantes",8.2,9.0,8.8,8.63
+PRO-005,Univar Solutions,EEUU,USD,40,"Edulcorantes, nitratos, amonio cuaternario",8.0,8.2,8.0,8.07
+PRO-006,Givaudan Colombia,Colombia,COP,15,Condimentos y saborizantes cárnicos,9.2,9.1,7.4,8.72
+PRO-007,IFF Colombia,Colombia,COP,15,Saborizantes y fragancias,9.0,8.9,7.6,8.62
+PRO-008,Merck KGaA,Alemania,EUR,45,"Medios de cultivo, reactivos laboratorio",9.5,8.6,7.0,8.56
+PRO-009,CP Kelco,EEUU,USD,50,"Gomas xantana, pectinas",8.7,8.3,7.8,8.33
+PRO-010,Lesaffre,Francia,EUR,20,Levaduras y mejoradores panadería,8.6,8.8,8.2,8.57
+PRO-011,Chr. Hansen,Dinamarca,EUR,30,"Cultivos lácteos, enzimas",9.3,9.0,7.3,8.7
+PRO-012,Ingredion Colombia,Colombia,COP,10,"Almidones, stevia, ingredientes bebidas",8.4,8.7,8.5,8.53
+PRO-013,Ecolab Colombia,Colombia,COP,10,Detergentes y desinfectantes industriales,8.9,9.2,8.1,8.8
+PRO-014,Coyabra,Colombia,COP,5,"Hipoclorito, alcohol, aseo básico",7.8,9.3,9.2,8.68
+PRO-015,PeroxyChem,EEUU,USD,30,"Ácido peracético, desinfectantes oxidantes",8.5,8.4,7.9,8.32

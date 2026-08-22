@@ -1,0 +1,111 @@
+empleado_id,nombre,genero,edad,departamento,cargo,tipo_contrato,sede,sede_id,fecha_ingreso,antiguedad_anos,salario_cop,score_desempeno,dias_ausentismo,estado
+EMP-001,Natalia Rojas Martínez,F,40,Talento Humano,Analista TH,Indefinido,Bogotá · Américas,BOG-AME,2024-04-18,2.3,7364159,9.6,7,Activo
+EMP-002,Camilo Pérez Morales,M,29,Logística,Jefe de Bodega,Indefinido,CEDI Siberia,SIB,2019-02-18,7.5,2497986,7.3,16,Activo
+EMP-003,Camilo Castro Rodríguez,M,37,Dirección,Director Nacional PV,Pasantía,Tunja,TUN,2021-03-30,5.4,9922979,8.7,9,Activo
+EMP-004,Oscar Pérez Díaz,M,42,Administración,Tesorero,Indefinido,Tunja,TUN,2019-01-28,7.6,4293202,7.6,15,Activo
+EMP-005,María Ramírez Vargas,F,32,Dirección,Gerente General,Obra labor,Bogotá · Químicos,BOG-QUI,2021-12-26,4.7,9983780,7.6,10,Activo
+EMP-006,Sandra Vargas Castro,F,25,Operaciones,Auxiliar Operativo,Indefinido,Bogotá · Américas,BOG-AME,2018-10-09,7.9,3318629,7.5,12,Activo
+EMP-007,Andrés Pérez Castro,M,22,Administración,Auxiliar Contable,Fijo,CEDI Siberia,SIB,2020-03-03,6.5,5090013,7.2,0,Activo
+EMP-008,Diego Díaz Muñoz,M,46,Dirección,Gerente General,Obra labor,Bogotá · Américas,BOG-AME,2021-10-11,4.9,9285011,7.1,0,Activo
+EMP-009,Sandra Hernández Rojas,F,54,Comercial,Key Account Manager,Pasantía,Bogotá · Américas,BOG-AME,2025-03-08,1.5,3104812,9.9,16,Inactivo
+EMP-010,Laura Pérez Muñoz,F,37,Talento Humano,Analista TH,Obra labor,Bogotá · Américas,BOG-AME,2016-11-20,9.8,3893511,7.8,10,Activo
+EMP-011,Valentina Hernández López,F,44,Dirección,Director Nacional PV,Indefinido,Bogotá · Américas,BOG-AME,2025-06-12,1.2,14900026,7.3,0,Activo
+EMP-012,Jorge Morales Torres,M,52,Administración,Auxiliar Contable,Indefinido,Bogotá · Américas,BOG-AME,2025-12-01,0.7,3835876,9.1,1,Activo
+EMP-013,Sandra Gómez Pérez,F,55,Comercial,Director Comercial,Indefinido,CEDI Mosquera,MOS,2019-03-10,7.5,4990540,6.4,8,Inactivo
+EMP-014,Luis Martínez Jiménez,M,55,Dirección,Gerente General,Indefinido,CEDI Siberia,SIB,2026-02-16,0.5,16331679,7.2,6,Activo
+EMP-015,Luis Rodríguez Martínez,M,47,Administración,Jefe Administrativo,Fijo,Bogotá · Américas,BOG-AME,2026-07-23,0.1,4379548,10.0,2,Activo
+EMP-016,Jorge Morales Barreto,M,44,Comercial,Key Account Manager,Obra labor,Bogotá · Américas,BOG-AME,2021-07-19,5.1,5697685,7.1,1,Activo
+EMP-017,Diego Reyes Sánchez,M,37,Operaciones,Coordinador Operativo,Pasantía,CEDI Mosquera,MOS,2021-08-18,5.0,2486028,8.8,6,Activo
+EMP-018,Luis Hernández López,M,51,Logística,Auxiliar Bodega,Obra labor,Bogotá · Químicos,BOG-QUI,2026-01-10,0.6,2061456,6.0,3,Activo
+EMP-019,Andrea Jiménez Díaz,F,41,Administración,Tesorero,Indefinido,Bogotá · Américas,BOG-AME,2019-01-20,7.6,5368767,6.6,2,Activo
+EMP-020,Luis Ramírez Barreto,M,33,Comercial,Vendedor Jr.,Pasantía,Itagüí,ITA,2023-08-20,3.0,3579897,5.8,7,Activo
+EMP-021,Paola González Castro,F,23,Comercial,Director Comercial,Obra labor,Itagüí,ITA,2024-08-07,2.0,4891379,6.1,5,Activo
+EMP-022,Valentina González Martínez,F,50,Operaciones,Auxiliar Operativo,Pasantía,Bogotá · Américas,BOG-AME,2024-09-10,1.9,2350044,9.9,2,Activo
+EMP-023,Paola Jiménez Vargas,F,54,Operaciones,Auxiliar Operativo,Indefinido,Bogotá · Químicos,BOG-QUI,2018-01-07,8.6,1985154,6.8,1,Activo
+EMP-024,Juliana Jiménez Rojas,F,43,Logística,Auxiliar Bodega,Indefinido,Villavicencio,VIL,2017-12-18,8.7,3381835,6.7,2,Activo
+EMP-025,Jorge Hernández Rodríguez,M,54,Calidad,Director Técnico,Obra labor,Bogotá · Químicos,BOG-QUI,2025-01-18,1.6,3503925,9.3,11,Activo
+EMP-026,Diego Martínez Barreto,M,36,Administración,Auxiliar Contable,Indefinido,Itagüí,ITA,2025-05-01,1.3,5028002,6.9,12,Activo
+EMP-027,María García Martínez,F,37,Administración,Tesorero,Obra labor,Tunja,TUN,2021-12-28,4.7,3895224,5.6,15,Activo
+EMP-028,Jorge Barreto Castro,M,44,Logística,Jefe de Bodega,Pasantía,CEDI Mosquera,MOS,2018-07-09,8.1,3120618,7.9,16,Activo
+EMP-029,María Muñoz López,F,38,Administración,Contador,Pasantía,Villavicencio,VIL,2021-12-08,4.7,4698715,6.5,9,Activo
+EMP-030,Mónica Castro Rodríguez,F,36,Talento Humano,Analista TH,Indefinido,CEDI Mosquera,MOS,2020-10-27,5.8,4858532,8.4,13,Activo
+EMP-031,Oscar Hernández Muñoz,M,38,Calidad,Analista de Calidad,Indefinido,Itagüí,ITA,2019-11-18,6.8,5354327,6.4,15,Activo
+EMP-032,Luis Morales Jiménez,M,53,Comercial,Vendedor Jr.,Indefinido,Itagüí,ITA,2017-03-30,9.4,5076690,7.4,4,Activo
+EMP-033,Oscar Morales López,M,35,Logística,Jefe de Bodega,Indefinido,Villavicencio,VIL,2018-05-27,8.2,1958389,7.3,13,Activo
+EMP-034,Andrea Sánchez Torres,F,25,Comercial,Asesor Comercial,Obra labor,Itagüí,ITA,2025-06-29,1.1,3490624,6.3,6,Activo
+EMP-035,Juliana Barreto González,F,23,Operaciones,Técnico Operativo,Fijo,Itagüí,ITA,2025-10-20,0.8,2342705,7.4,10,Activo
+EMP-036,Valentina García Rodríguez,F,42,Dirección,Gerente General,Indefinido,Bogotá · Américas,BOG-AME,2023-12-16,2.7,13559906,8.9,17,Activo
+EMP-037,Andrés Vargas Jiménez,M,29,Comercial,Director Comercial,Pasantía,Itagüí,ITA,2026-03-28,0.4,4287486,6.7,5,Activo
+EMP-038,Juliana López González,F,31,Logística,Coordinador Logístico,Obra labor,Bogotá · Químicos,BOG-QUI,2019-06-06,7.2,3065463,5.8,6,Activo
+EMP-039,Diego Reyes Martínez,M,41,Dirección,Gerente Regional,Indefinido,Bogotá · Américas,BOG-AME,2026-07-10,0.1,15586063,7.0,17,Activo
+EMP-040,Paola Torres Rojas,F,47,Talento Humano,Analista TH,Pasantía,CEDI Mosquera,MOS,2022-01-26,4.6,4257664,5.9,6,Activo
+EMP-041,Paola Rojas Rodríguez,F,25,Calidad,Bacteriólogo,Fijo,Bogotá · Américas,BOG-AME,2018-05-29,8.2,5868730,5.6,12,Activo
+EMP-042,Sandra Muñoz Vargas,F,56,Calidad,Bacteriólogo,Indefinido,Villavicencio,VIL,2023-12-05,2.7,5682949,7.0,10,Activo
+EMP-043,Paola Hernández Morales,F,32,Operaciones,Auxiliar Operativo,Indefinido,Itagüí,ITA,2022-03-13,4.4,2245749,9.6,9,Activo
+EMP-044,María López Rojas,F,46,Administración,Contador,Obra labor,CEDI Siberia,SIB,2019-03-24,7.4,2730484,6.9,2,Activo
+EMP-045,Paola Vargas Rodríguez,F,54,Operaciones,Coordinador Operativo,Indefinido,Bogotá · Químicos,BOG-QUI,2024-10-21,1.8,2739696,9.4,6,Activo
+EMP-046,Mauricio Castro Vargas,M,43,Logística,Coordinador Logístico,Obra labor,Bogotá · Químicos,BOG-QUI,2018-09-02,8.0,3790020,6.3,7,Activo
+EMP-047,Laura Vargas González,F,26,Operaciones,Auxiliar Operativo,Fijo,CEDI Mosquera,MOS,2023-07-13,3.1,2984874,7.8,7,Activo
+EMP-048,Diego Hernández Vargas,M,29,Dirección,Gerente Regional,Indefinido,Bogotá · Químicos,BOG-QUI,2017-11-19,8.8,16771892,6.2,12,Activo
+EMP-049,Juliana Reyes Ramírez,F,40,Dirección,Gerente Regional,Fijo,Bogotá · Américas,BOG-AME,2019-02-22,7.5,14395937,7.6,10,Activo
+EMP-050,Jorge Rojas Reyes,M,29,Administración,Tesorero,Fijo,Bogotá · Químicos,BOG-QUI,2022-01-21,4.6,3819679,6.5,12,Activo
+EMP-051,Andrea García Reyes,F,41,Talento Humano,Analista TH,Indefinido,Itagüí,ITA,2018-12-06,7.7,3738937,9.3,2,Activo
+EMP-052,Sandra Vargas Vargas,F,23,Administración,Jefe Administrativo,Fijo,Tunja,TUN,2022-05-30,4.2,4410788,8.3,17,Activo
+EMP-053,Andrés Muñoz Vargas,M,42,Dirección,Gerente Regional,Obra labor,Itagüí,ITA,2016-12-29,9.7,12300748,6.8,1,Activo
+EMP-054,Mauricio González López,M,22,Operaciones,Técnico Operativo,Pasantía,Bogotá · Químicos,BOG-QUI,2024-07-11,2.1,2938453,6.1,8,Activo
+EMP-055,Carlos García Morales,M,40,Dirección,Gerente Regional,Indefinido,Bogotá · Químicos,BOG-QUI,2017-06-07,9.2,10734596,5.5,6,Activo
+EMP-056,Luis Díaz Martínez,M,52,Administración,Jefe Administrativo,Pasantía,Tunja,TUN,2025-04-18,1.3,2683479,6.0,1,Activo
+EMP-057,Mauricio Sánchez Reyes,M,24,Operaciones,Técnico Operativo,Pasantía,Itagüí,ITA,2017-02-23,9.5,2590204,7.3,1,Activo
+EMP-058,Diego Martínez Rojas,M,51,Operaciones,Auxiliar Operativo,Obra labor,Bogotá · Químicos,BOG-QUI,2021-09-28,4.9,1929082,5.8,13,Activo
+EMP-059,Mauricio Torres Martínez,M,31,Logística,Conductor,Indefinido,Itagüí,ITA,2023-10-25,2.8,2597972,5.8,13,Activo
+EMP-060,Mauricio Morales Jiménez,M,32,Logística,Jefe de Bodega,Pasantía,Bogotá · Químicos,BOG-QUI,2022-02-18,4.5,2222676,9.4,6,Activo
+EMP-061,Camilo Rodríguez González,M,38,Calidad,Analista de Calidad,Indefinido,Itagüí,ITA,2024-02-29,2.5,6117559,7.3,11,Activo
+EMP-062,Omar Rodríguez Ramírez,M,30,Logística,Jefe de Bodega,Indefinido,Bogotá · Américas,BOG-AME,2018-06-14,8.2,3448148,7.8,2,Activo
+EMP-063,Carlos Muñoz Gómez,M,33,Calidad,Analista de Calidad,Indefinido,CEDI Mosquera,MOS,2016-11-11,9.8,3654689,9.8,8,Activo
+EMP-064,Omar González Morales,M,41,Talento Humano,Analista TH,Obra labor,Bogotá · Químicos,BOG-QUI,2025-01-25,1.6,6382521,8.7,5,Activo
+EMP-065,Oscar López Sánchez,M,48,Calidad,Director Técnico,Fijo,Bogotá · Químicos,BOG-QUI,2018-08-28,8.0,6424969,8.9,13,Inactivo
+EMP-066,Juan Hernández García,M,26,Calidad,Bacteriólogo,Indefinido,Bogotá · Químicos,BOG-QUI,2021-03-08,5.5,5238386,8.7,14,Activo
+EMP-067,Juliana Vargas Barreto,F,56,Talento Humano,Gerente TH Grupo,Indefinido,Bogotá · Américas,BOG-AME,2017-10-15,8.9,6329320,8.2,17,Activo
+EMP-068,Juliana Hernández Díaz,F,40,Administración,Jefe Administrativo,Fijo,Bogotá · Químicos,BOG-QUI,2019-12-21,6.7,5291223,5.5,5,Activo
+EMP-069,Mónica Vargas Rojas,F,36,Calidad,Bacteriólogo,Obra labor,Tunja,TUN,2020-02-10,6.5,3417312,8.6,0,Activo
+EMP-070,Juan Torres Hernández,M,55,Talento Humano,Analista TH,Indefinido,Bogotá · Américas,BOG-AME,2022-01-12,4.6,4621647,9.2,1,Activo
+EMP-071,Omar Díaz Jiménez,M,40,Calidad,Bacteriólogo,Indefinido,Bogotá · Químicos,BOG-QUI,2024-05-18,2.3,4844636,8.0,1,Activo
+EMP-072,Natalia Vargas Pérez,F,46,Operaciones,Técnico Operativo,Fijo,Bogotá · Químicos,BOG-QUI,2017-10-28,8.8,2045971,8.7,9,Activo
+EMP-073,Jorge Hernández Vargas,M,45,Operaciones,Coordinador Operativo,Indefinido,Tunja,TUN,2019-11-09,6.8,3311220,9.3,9,Activo
+EMP-074,Valentina García Díaz,F,50,Administración,Auxiliar Contable,Fijo,Itagüí,ITA,2024-11-06,1.8,2933179,9.4,12,Activo
+EMP-075,Mónica Vargas Sánchez,F,56,Calidad,Bacteriólogo,Indefinido,Itagüí,ITA,2020-03-08,6.5,3562300,8.0,8,Activo
+EMP-076,Camilo Sánchez Sánchez,M,53,Administración,Auxiliar Contable,Fijo,CEDI Mosquera,MOS,2021-09-20,4.9,4492855,6.6,4,Activo
+EMP-077,Valentina Díaz Gómez,F,30,Dirección,Director Nacional PV,Pasantía,Itagüí,ITA,2019-10-14,6.9,8443200,7.4,3,Activo
+EMP-078,Jorge González Martínez,M,24,Calidad,Director Técnico,Obra labor,Bogotá · Américas,BOG-AME,2023-08-17,3.0,5205840,5.9,17,Activo
+EMP-079,Oscar Vargas Ramírez,M,23,Logística,Jefe de Bodega,Obra labor,Villavicencio,VIL,2024-10-18,1.8,3641746,9.1,12,Activo
+EMP-080,Laura Gómez Reyes,F,51,Calidad,Analista de Calidad,Pasantía,Bogotá · Américas,BOG-AME,2019-07-04,7.1,4884473,9.7,16,Activo
+EMP-081,Carlos Castro Morales,M,29,Calidad,Director Técnico,Obra labor,Tunja,TUN,2024-01-19,2.6,4661053,9.1,10,Activo
+EMP-082,Andrea Vargas Vargas,F,46,Calidad,Director Técnico,Indefinido,Bogotá · Químicos,BOG-QUI,2024-07-01,2.1,3742878,7.5,11,Activo
+EMP-083,Natalia García Pérez,F,35,Talento Humano,Analista TH,Pasantía,Bogotá · Américas,BOG-AME,2017-10-12,8.9,4061441,6.9,11,Activo
+EMP-084,Juliana Hernández Muñoz,F,54,Operaciones,Técnico Operativo,Indefinido,Villavicencio,VIL,2025-04-29,1.3,1998606,7.1,10,Activo
+EMP-085,Jorge Morales Castro,M,25,Comercial,Asesor Comercial,Obra labor,Bogotá · Américas,BOG-AME,2024-11-16,1.8,3416082,7.0,15,Activo
+EMP-086,Luis Castro Martínez,M,38,Comercial,Asesor Comercial,Indefinido,Bogotá · Químicos,BOG-QUI,2024-05-29,2.2,4089647,8.9,16,Activo
+EMP-087,Camilo Reyes Rodríguez,M,56,Logística,Jefe de Bodega,Indefinido,Itagüí,ITA,2017-02-17,9.5,2261631,5.8,13,Activo
+EMP-088,Diego Morales Díaz,M,34,Comercial,Vendedor Jr.,Indefinido,Villavicencio,VIL,2022-03-04,4.5,3313744,8.8,17,Activo
+EMP-089,Camilo Jiménez Gómez,M,23,Administración,Auxiliar Contable,Pasantía,Tunja,TUN,2018-01-12,8.6,3279072,8.7,6,Activo
+EMP-090,María Barreto García,F,22,Logística,Coordinador Logístico,Indefinido,Bogotá · Américas,BOG-AME,2024-07-01,2.1,2927588,9.6,11,Activo
+EMP-091,Natalia Pérez Vargas,F,46,Calidad,Bacteriólogo,Indefinido,Villavicencio,VIL,2021-12-11,4.7,4952354,6.3,5,Activo
+EMP-092,Sandra Castro Ramírez,F,24,Calidad,Analista de Calidad,Obra labor,Villavicencio,VIL,2021-11-10,4.8,4899574,6.5,15,Activo
+EMP-093,Paola Pérez Jiménez,F,42,Administración,Contador,Indefinido,CEDI Mosquera,MOS,2023-07-29,3.1,5003385,9.1,4,Activo
+EMP-094,Andrés González López,M,31,Comercial,Asesor Comercial,Indefinido,Itagüí,ITA,2017-03-31,9.4,4189333,8.6,1,Activo
+EMP-095,María Hernández Rodríguez,F,30,Comercial,Key Account Manager,Indefinido,Tunja,TUN,2018-04-09,8.4,4140811,8.3,5,Activo
+EMP-096,Juan Pérez Rodríguez,M,55,Calidad,Director Técnico,Obra labor,Bogotá · Químicos,BOG-QUI,2025-11-24,0.7,5315694,6.5,16,Activo
+EMP-097,Carlos Reyes López,M,56,Logística,Conductor,Pasantía,Bogotá · Américas,BOG-AME,2017-05-19,9.3,2916644,10.0,1,Activo
+EMP-098,Omar Barreto Ramírez,M,52,Talento Humano,Analista TH,Obra labor,Bogotá · Américas,BOG-AME,2025-08-17,1.0,3598221,8.4,14,Activo
+EMP-099,Natalia Morales Martínez,F,54,Administración,Contador,Indefinido,Bogotá · Químicos,BOG-QUI,2023-10-22,2.8,3013480,6.2,4,Activo
+EMP-100,Laura Díaz Hernández,F,39,Calidad,Bacteriólogo,Indefinido,Tunja,TUN,2025-11-30,0.7,4600004,5.7,9,Activo
+EMP-101,María Sánchez Sánchez,F,45,Dirección,Gerente Regional,Obra labor,Itagüí,ITA,2026-05-31,0.2,9403025,9.0,10,Activo
+EMP-102,Omar Gómez López,M,34,Dirección,Director Nacional PV,Obra labor,Bogotá · Américas,BOG-AME,2023-08-01,3.1,11251707,9.6,13,Activo
+EMP-103,Juan López González,M,44,Operaciones,Auxiliar Operativo,Indefinido,Itagüí,ITA,2018-03-22,8.4,1956871,6.9,1,Activo
+EMP-104,Daniela González Vargas,F,29,Calidad,Bacteriólogo,Pasantía,Bogotá · Américas,BOG-AME,2017-09-26,8.9,4218113,5.7,7,Activo
+EMP-105,Paola Hernández Barreto,F,45,Administración,Auxiliar Contable,Fijo,Bogotá · Químicos,BOG-QUI,2021-07-25,5.1,2810863,6.6,2,Activo
+EMP-106,Natalia Muñoz Rojas,F,30,Calidad,Director Técnico,Fijo,Bogotá · Américas,BOG-AME,2018-10-14,7.9,3853364,7.8,3,Activo
+EMP-107,Juliana González Pérez,F,39,Operaciones,Técnico Operativo,Pasantía,Bogotá · Américas,BOG-AME,2023-10-03,2.9,3036106,7.3,9,Activo
+EMP-108,Jorge García Torres,M,35,Logística,Jefe de Bodega,Indefinido,Bogotá · Américas,BOG-AME,2025-11-27,0.7,3539090,9.7,7,Activo
+EMP-109,Andrea Muñoz Ramírez,F,39,Dirección,Gerente Regional,Pasantía,Villavicencio,VIL,2017-01-17,9.6,8992781,8.4,16,Activo
+EMP-110,Oscar Díaz Díaz,M,53,Calidad,Analista de Calidad,Obra labor,Bogotá · Américas,BOG-AME,2023-12-17,2.7,5281021,7.6,9,Activo

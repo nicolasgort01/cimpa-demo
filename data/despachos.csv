@@ -1,0 +1,581 @@
+despacho_id,fecha_pedido,fecha_entrega_prometida,fecha_entrega_real,dias_transito,cliente_id,cliente,sector,ciudad_destino,depto_destino,sede_origen,sede_nombre,estado,entregado_a_tiempo,valor_cop
+DSP-8000,2026-08-22,2026-08-25,,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,En tránsito,,60959138
+DSP-8001,2026-06-15,2026-06-17,2026-06-17,2,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,14735122
+DSP-8002,2026-07-06,2026-07-09,2026-07-09,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,61769712
+DSP-8003,2026-05-30,2026-05-31,2026-05-31,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,43375568
+DSP-8004,2026-07-19,2026-07-20,2026-07-20,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,ITA,Itagüí,Entregado,True,69221049
+DSP-8005,2026-07-30,2026-08-02,2026-08-02,3,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,11328374
+DSP-8006,2026-07-07,2026-07-10,2026-07-10,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,34067371
+DSP-8007,2026-07-06,2026-07-07,2026-07-07,1,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,47253323
+DSP-8008,2026-08-05,2026-08-08,2026-08-08,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,38683085
+DSP-8009,2026-07-22,2026-07-23,2026-07-27,5,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,False,55081069
+DSP-8010,2026-08-08,2026-08-11,2026-08-11,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,60872366
+DSP-8011,2026-08-06,2026-08-07,2026-08-07,1,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,12124004
+DSP-8012,2026-08-12,2026-08-15,2026-08-18,6,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,False,67201408
+DSP-8013,2026-07-14,2026-07-16,2026-07-16,2,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,37315915
+DSP-8014,2026-06-29,2026-06-30,2026-06-30,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,65598389
+DSP-8015,2026-05-25,2026-05-27,2026-05-27,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,57116887
+DSP-8016,2026-07-02,2026-07-05,2026-07-05,3,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,25341875
+DSP-8017,2026-08-17,2026-08-18,2026-08-18,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,13512354
+DSP-8018,2026-07-15,2026-07-18,2026-07-20,5,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,TUN,Tunja,Entregado,False,25711718
+DSP-8019,2026-07-01,2026-07-04,2026-07-04,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,7609830
+DSP-8020,2026-06-14,2026-06-16,2026-06-16,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,10586610
+DSP-8021,2026-08-09,2026-08-10,2026-08-10,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,31548334
+DSP-8022,2026-07-30,2026-07-31,2026-07-31,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,43450440
+DSP-8023,2026-05-31,2026-06-02,2026-06-06,6,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,51081531
+DSP-8024,2026-07-18,2026-07-21,2026-07-21,3,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,60859166
+DSP-8025,2026-06-30,2026-07-03,2026-07-03,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,21117188
+DSP-8026,2026-08-22,2026-08-23,,1,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,En tránsito,,59627685
+DSP-8027,2026-08-05,2026-08-08,2026-08-08,3,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,34835439
+DSP-8028,2026-07-13,2026-07-15,2026-07-15,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,47790615
+DSP-8029,2026-07-02,2026-07-05,2026-07-05,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,83659102
+DSP-8030,2026-05-25,2026-05-27,2026-05-27,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,70752252
+DSP-8031,2026-07-20,2026-07-22,2026-07-22,2,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,23150395
+DSP-8032,2026-08-06,2026-08-07,2026-08-07,1,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,52561793
+DSP-8033,2026-06-09,2026-06-11,2026-06-11,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,24569019
+DSP-8034,2026-06-08,2026-06-11,2026-06-11,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,27938992
+DSP-8035,2026-06-22,2026-06-25,2026-06-25,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,27921507
+DSP-8036,2026-06-21,2026-06-22,2026-06-22,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,ITA,Itagüí,Entregado,True,26038292
+DSP-8037,2026-07-29,2026-08-01,2026-08-01,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,65493073
+DSP-8038,2026-06-01,2026-06-02,2026-06-02,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,63373758
+DSP-8039,2026-08-10,2026-08-13,2026-08-13,3,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,ITA,Itagüí,Entregado,True,51887125
+DSP-8040,2026-07-08,2026-07-11,2026-07-11,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,22563493
+DSP-8041,2026-07-12,2026-07-13,2026-07-13,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,78946812
+DSP-8042,2026-06-14,2026-06-17,2026-06-17,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,71941653
+DSP-8043,2026-07-05,2026-07-06,2026-07-06,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,43103472
+DSP-8044,2026-07-18,2026-07-19,2026-07-19,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,64689777
+DSP-8045,2026-06-26,2026-06-28,2026-06-28,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,54414715
+DSP-8046,2026-06-28,2026-07-01,2026-07-01,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,True,41309697
+DSP-8047,2026-07-31,2026-08-01,2026-08-01,1,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,34456199
+DSP-8048,2026-06-18,2026-06-19,2026-06-19,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,ITA,Itagüí,Entregado,True,79765699
+DSP-8049,2026-07-28,2026-07-29,2026-07-29,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,TUN,Tunja,Entregado,True,79408986
+DSP-8050,2026-08-10,2026-08-13,2026-08-13,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,29277249
+DSP-8051,2026-08-13,2026-08-15,2026-08-15,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,20388582
+DSP-8052,2026-07-17,2026-07-20,2026-07-20,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,36487909
+DSP-8053,2026-07-26,2026-07-27,2026-07-27,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,58100636
+DSP-8054,2026-06-16,2026-06-17,2026-06-17,1,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,12190166
+DSP-8055,2026-06-29,2026-07-02,2026-07-02,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,38352130
+DSP-8056,2026-06-19,2026-06-21,2026-06-21,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,40978167
+DSP-8057,2026-06-28,2026-06-29,2026-06-29,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,51662349
+DSP-8058,2026-06-08,2026-06-11,2026-06-11,3,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,9066367
+DSP-8059,2026-07-24,2026-07-25,2026-07-25,1,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,58061752
+DSP-8060,2026-07-30,2026-07-31,2026-07-31,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,61143388
+DSP-8061,2026-05-25,2026-05-28,2026-05-31,6,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,False,55054699
+DSP-8062,2026-07-20,2026-07-23,2026-07-23,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,76295189
+DSP-8063,2026-06-13,2026-06-16,2026-06-16,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,74382578
+DSP-8064,2026-07-17,2026-07-19,2026-07-19,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,67732173
+DSP-8065,2026-06-18,2026-06-20,2026-06-20,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,62702542
+DSP-8066,2026-08-04,2026-08-07,2026-08-07,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,62095251
+DSP-8067,2026-06-30,2026-07-02,2026-07-02,2,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,59491296
+DSP-8068,2026-06-02,2026-06-03,2026-06-03,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,35626381
+DSP-8069,2026-08-22,2026-08-23,,1,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,En tránsito,,12672432
+DSP-8070,2026-05-28,2026-05-29,2026-05-29,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,84811068
+DSP-8071,2026-06-18,2026-06-20,2026-06-20,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,33286281
+DSP-8072,2026-06-25,2026-06-28,2026-06-28,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,SIB,CEDI Siberia,Entregado,True,82979229
+DSP-8073,2026-06-03,2026-06-05,2026-06-05,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,42234530
+DSP-8074,2026-08-09,2026-08-11,2026-08-11,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,ITA,Itagüí,Entregado,True,39210457
+DSP-8075,2026-07-13,2026-07-14,2026-07-18,5,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,False,83322988
+DSP-8076,2026-06-16,2026-06-17,2026-06-17,1,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,21121609
+DSP-8077,2026-08-08,2026-08-11,2026-08-11,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,73228446
+DSP-8078,2026-08-05,2026-08-07,2026-08-07,2,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,80265521
+DSP-8079,2026-07-03,2026-07-06,2026-07-11,8,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,False,66550548
+DSP-8080,2026-08-07,2026-08-08,2026-08-08,1,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,51903510
+DSP-8081,2026-08-18,2026-08-19,2026-08-19,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,11219125
+DSP-8082,2026-06-25,2026-06-27,2026-06-27,2,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,23805618
+DSP-8083,2026-06-28,2026-06-29,2026-06-29,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,14224654
+DSP-8084,2026-07-17,2026-07-19,2026-07-19,2,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,9642219
+DSP-8085,2026-06-04,2026-06-06,2026-06-06,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,22417787
+DSP-8086,2026-06-23,2026-06-25,2026-06-25,2,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,57137544
+DSP-8087,2026-06-28,2026-07-01,2026-07-01,3,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,56170909
+DSP-8088,2026-06-25,2026-06-28,2026-06-28,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,16605061
+DSP-8089,2026-08-07,2026-08-09,2026-08-09,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,43203374
+DSP-8090,2026-05-28,2026-05-30,2026-05-30,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,25339136
+DSP-8091,2026-06-10,2026-06-13,2026-06-13,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,81486775
+DSP-8092,2026-07-28,2026-07-29,2026-07-29,1,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,55753207
+DSP-8093,2026-06-10,2026-06-11,2026-06-11,1,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,51839319
+DSP-8094,2026-06-12,2026-06-15,2026-06-15,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,20557499
+DSP-8095,2026-07-13,2026-07-15,2026-07-15,2,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,56401408
+DSP-8096,2026-07-31,2026-08-02,2026-08-02,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,29179335
+DSP-8097,2026-06-29,2026-06-30,2026-06-30,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,23205273
+DSP-8098,2026-08-13,2026-08-14,2026-08-14,1,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,46559628
+DSP-8099,2026-06-15,2026-06-16,2026-06-20,5,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,False,10486903
+DSP-8100,2026-06-19,2026-06-20,2026-06-20,1,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,15667448
+DSP-8101,2026-07-23,2026-07-26,2026-07-26,3,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,6803486
+DSP-8102,2026-07-19,2026-07-21,2026-07-21,2,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,57430914
+DSP-8103,2026-08-01,2026-08-04,2026-08-04,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,26677234
+DSP-8104,2026-08-15,2026-08-17,2026-08-17,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,50315004
+DSP-8105,2026-06-18,2026-06-19,2026-06-19,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,68244350
+DSP-8106,2026-08-22,2026-08-25,,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,En tránsito,,71369958
+DSP-8107,2026-08-10,2026-08-12,2026-08-12,2,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,SIB,CEDI Siberia,Entregado,True,31091164
+DSP-8108,2026-06-12,2026-06-13,2026-06-13,1,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,38910317
+DSP-8109,2026-07-10,2026-07-11,2026-07-11,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,56110264
+DSP-8110,2026-06-08,2026-06-10,2026-06-10,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,5269168
+DSP-8111,2026-07-24,2026-07-25,2026-07-28,4,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,10312783
+DSP-8112,2026-06-13,2026-06-14,2026-06-14,1,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,84224814
+DSP-8113,2026-07-19,2026-07-21,2026-07-22,3,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,44452836
+DSP-8114,2026-08-07,2026-08-10,2026-08-10,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,6147067
+DSP-8115,2026-07-26,2026-07-29,2026-07-29,3,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,ITA,Itagüí,Entregado,True,24717614
+DSP-8116,2026-08-05,2026-08-07,2026-08-07,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,37348032
+DSP-8117,2026-08-11,2026-08-12,2026-08-12,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,34342167
+DSP-8118,2026-07-23,2026-07-26,2026-07-26,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,15060294
+DSP-8119,2026-05-29,2026-05-31,2026-05-31,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,12812440
+DSP-8120,2026-07-14,2026-07-15,2026-07-15,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,41051271
+DSP-8121,2026-06-26,2026-06-28,2026-06-28,2,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,26396019
+DSP-8122,2026-05-26,2026-05-27,2026-05-27,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,51497733
+DSP-8123,2026-06-23,2026-06-26,2026-07-01,8,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,False,60218471
+DSP-8124,2026-08-21,2026-08-24,,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,En tránsito,,78159809
+DSP-8125,2026-06-11,2026-06-13,2026-06-13,2,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,34466128
+DSP-8126,2026-08-10,2026-08-11,2026-08-11,1,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,BOG-QUI,Bogotá · Químicos,Entregado,True,32284625
+DSP-8127,2026-06-08,2026-06-11,2026-06-11,3,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,62244816
+DSP-8128,2026-08-15,2026-08-16,2026-08-21,6,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,5725005
+DSP-8129,2026-05-27,2026-05-28,2026-05-28,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,16627469
+DSP-8130,2026-06-11,2026-06-12,2026-06-12,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,50778076
+DSP-8131,2026-06-11,2026-06-13,2026-06-15,4,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,56317002
+DSP-8132,2026-07-28,2026-07-31,2026-07-31,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,66214332
+DSP-8133,2026-08-22,2026-08-23,,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,En tránsito,,62320876
+DSP-8134,2026-06-17,2026-06-19,2026-06-19,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,59528529
+DSP-8135,2026-08-05,2026-08-08,2026-08-08,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,58410043
+DSP-8136,2026-07-09,2026-07-11,2026-07-11,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,27202672
+DSP-8137,2026-06-23,2026-06-25,2026-06-25,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,65067614
+DSP-8138,2026-06-01,2026-06-03,2026-06-03,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,84578999
+DSP-8139,2026-07-07,2026-07-08,2026-07-13,6,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,False,43602809
+DSP-8140,2026-06-07,2026-06-08,2026-06-08,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,55459089
+DSP-8141,2026-06-03,2026-06-06,2026-06-09,6,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,15489460
+DSP-8142,2026-07-07,2026-07-08,2026-07-08,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,23667208
+DSP-8143,2026-06-12,2026-06-15,2026-06-15,3,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,15827409
+DSP-8144,2026-07-12,2026-07-14,2026-07-14,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,78627438
+DSP-8145,2026-08-09,2026-08-11,2026-08-11,2,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,44870757
+DSP-8146,2026-06-20,2026-06-22,2026-06-22,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,62069951
+DSP-8147,2026-06-22,2026-06-23,2026-06-23,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,37202038
+DSP-8148,2026-07-18,2026-07-21,2026-07-21,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,ITA,Itagüí,Entregado,True,67423973
+DSP-8149,2026-06-20,2026-06-22,2026-06-22,2,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,62097340
+DSP-8150,2026-08-13,2026-08-14,2026-08-14,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,36198055
+DSP-8151,2026-06-02,2026-06-03,2026-06-06,4,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,TUN,Tunja,Entregado,False,62409806
+DSP-8152,2026-08-20,2026-08-22,2026-08-22,2,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,TUN,Tunja,Entregado,True,39860021
+DSP-8153,2026-07-06,2026-07-09,2026-07-14,8,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,46344514
+DSP-8154,2026-08-20,2026-08-23,,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,En tránsito,,41621640
+DSP-8155,2026-08-05,2026-08-08,2026-08-08,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,26816782
+DSP-8156,2026-07-17,2026-07-18,2026-07-18,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,32263969
+DSP-8157,2026-07-28,2026-07-29,2026-07-29,1,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,83512157
+DSP-8158,2026-08-03,2026-08-05,2026-08-05,2,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,23818430
+DSP-8159,2026-08-05,2026-08-07,2026-08-07,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,ITA,Itagüí,Entregado,True,64578030
+DSP-8160,2026-07-20,2026-07-21,2026-07-21,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,53720752
+DSP-8161,2026-06-27,2026-06-28,2026-06-28,1,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,18840492
+DSP-8162,2026-07-19,2026-07-22,2026-07-27,8,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,ITA,Itagüí,Entregado,False,17082370
+DSP-8163,2026-05-30,2026-06-01,2026-06-01,2,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,21309889
+DSP-8164,2026-07-23,2026-07-24,2026-07-24,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,67744702
+DSP-8165,2026-06-06,2026-06-08,2026-06-08,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,74594793
+DSP-8166,2026-08-08,2026-08-11,2026-08-14,6,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,21505123
+DSP-8167,2026-05-31,2026-06-02,2026-06-02,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,34158120
+DSP-8168,2026-07-12,2026-07-13,2026-07-13,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,7435019
+DSP-8169,2026-07-20,2026-07-23,2026-07-26,6,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,9520315
+DSP-8170,2026-07-14,2026-07-16,2026-07-16,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,21151858
+DSP-8171,2026-05-27,2026-05-29,2026-05-29,2,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,53560728
+DSP-8172,2026-08-04,2026-08-07,2026-08-07,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,59149002
+DSP-8173,2026-07-03,2026-07-04,2026-07-04,1,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,BOG-AME,Bogotá · Américas,Entregado,True,47625532
+DSP-8174,2026-07-20,2026-07-21,2026-07-21,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,38092789
+DSP-8175,2026-06-01,2026-06-04,2026-06-04,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,49029501
+DSP-8176,2026-06-29,2026-07-01,2026-07-01,2,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,84501296
+DSP-8177,2026-08-05,2026-08-08,2026-08-08,3,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,33548788
+DSP-8178,2026-05-28,2026-05-31,2026-05-31,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,50078137
+DSP-8179,2026-07-31,2026-08-03,2026-08-03,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,66826035
+DSP-8180,2026-06-30,2026-07-01,2026-07-01,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,81740880
+DSP-8181,2026-06-03,2026-06-04,2026-06-04,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,72347964
+DSP-8182,2026-05-31,2026-06-01,2026-06-01,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,66235803
+DSP-8183,2026-05-28,2026-05-31,2026-05-31,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,8331956
+DSP-8184,2026-05-29,2026-05-31,2026-05-31,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,37941183
+DSP-8185,2026-08-04,2026-08-06,2026-08-06,2,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,31427858
+DSP-8186,2026-08-06,2026-08-09,2026-08-09,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,43553427
+DSP-8187,2026-07-20,2026-07-23,2026-07-23,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,TUN,Tunja,Entregado,True,46392031
+DSP-8188,2026-07-12,2026-07-15,2026-07-15,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,34000330
+DSP-8189,2026-07-19,2026-07-20,2026-07-20,1,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,59003210
+DSP-8190,2026-08-03,2026-08-05,2026-08-05,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,39243665
+DSP-8191,2026-08-04,2026-08-05,2026-08-05,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,31810663
+DSP-8192,2026-06-19,2026-06-22,2026-06-22,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,12762925
+DSP-8193,2026-06-10,2026-06-11,2026-06-11,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,ITA,Itagüí,Entregado,True,39035970
+DSP-8194,2026-07-27,2026-07-30,2026-07-30,3,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,15424385
+DSP-8195,2026-08-11,2026-08-14,2026-08-14,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,31742951
+DSP-8196,2026-06-09,2026-06-10,2026-06-10,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,51540231
+DSP-8197,2026-05-31,2026-06-01,2026-06-01,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,78995332
+DSP-8198,2026-08-22,2026-08-23,,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,VIL,Villavicencio,En tránsito,,81181582
+DSP-8199,2026-07-20,2026-07-23,2026-07-23,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,66870628
+DSP-8200,2026-07-21,2026-07-23,2026-07-23,2,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,TUN,Tunja,Entregado,True,50352708
+DSP-8201,2026-08-17,2026-08-19,2026-08-21,4,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,30883054
+DSP-8202,2026-08-17,2026-08-19,2026-08-19,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,76848581
+DSP-8203,2026-08-05,2026-08-08,2026-08-08,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,TUN,Tunja,Entregado,True,49348196
+DSP-8204,2026-07-03,2026-07-04,2026-07-09,6,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,53057533
+DSP-8205,2026-07-22,2026-07-24,2026-07-24,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,26949056
+DSP-8206,2026-06-16,2026-06-17,2026-06-17,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,ITA,Itagüí,Entregado,True,5723297
+DSP-8207,2026-07-14,2026-07-17,2026-07-20,6,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,False,43044981
+DSP-8208,2026-06-10,2026-06-13,2026-06-13,3,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,38565774
+DSP-8209,2026-06-29,2026-07-01,2026-07-01,2,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,18441925
+DSP-8210,2026-05-30,2026-05-31,2026-06-02,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,ITA,Itagüí,Entregado,False,84487427
+DSP-8211,2026-06-22,2026-06-23,2026-06-25,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,VIL,Villavicencio,Entregado,False,52781503
+DSP-8212,2026-06-05,2026-06-08,2026-06-08,3,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,83017437
+DSP-8213,2026-06-27,2026-06-29,2026-06-29,2,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,ITA,Itagüí,Entregado,True,75291196
+DSP-8214,2026-06-20,2026-06-21,2026-06-21,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,42612217
+DSP-8215,2026-06-14,2026-06-17,2026-06-17,3,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,73252623
+DSP-8216,2026-05-29,2026-05-31,2026-05-31,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,49770262
+DSP-8217,2026-07-13,2026-07-15,2026-07-15,2,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,62076163
+DSP-8218,2026-08-06,2026-08-07,2026-08-10,4,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,False,32419863
+DSP-8219,2026-07-24,2026-07-25,2026-07-25,1,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,58920037
+DSP-8220,2026-07-07,2026-07-09,2026-07-09,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,17944631
+DSP-8221,2026-08-04,2026-08-06,2026-08-11,7,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,False,48367295
+DSP-8222,2026-05-31,2026-06-01,2026-06-05,5,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,51297369
+DSP-8223,2026-06-15,2026-06-17,2026-06-17,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,51079695
+DSP-8224,2026-06-24,2026-06-27,2026-06-28,4,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,False,6150455
+DSP-8225,2026-08-18,2026-08-20,2026-08-20,2,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,70282963
+DSP-8226,2026-06-26,2026-06-29,2026-06-29,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,39084467
+DSP-8227,2026-08-01,2026-08-04,2026-08-04,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,BOG-QUI,Bogotá · Químicos,Entregado,True,6520958
+DSP-8228,2026-07-10,2026-07-11,2026-07-11,1,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,5238304
+DSP-8229,2026-06-03,2026-06-06,2026-06-07,4,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,19380883
+DSP-8230,2026-07-27,2026-07-29,2026-07-29,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,ITA,Itagüí,Entregado,True,68491870
+DSP-8231,2026-07-17,2026-07-20,2026-07-20,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,60196506
+DSP-8232,2026-07-08,2026-07-10,2026-07-10,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,52529933
+DSP-8233,2026-05-28,2026-05-31,2026-05-31,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,6674913
+DSP-8234,2026-06-15,2026-06-18,2026-06-18,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,60796160
+DSP-8235,2026-06-21,2026-06-24,2026-06-24,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,73634636
+DSP-8236,2026-08-19,2026-08-22,2026-08-22,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,True,47013825
+DSP-8237,2026-05-26,2026-05-28,2026-05-28,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,37732239
+DSP-8238,2026-07-09,2026-07-12,2026-07-12,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,46451613
+DSP-8239,2026-06-10,2026-06-13,2026-06-13,3,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,12989389
+DSP-8240,2026-08-17,2026-08-18,2026-08-18,1,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,16205569
+DSP-8241,2026-07-24,2026-07-25,2026-07-25,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,44894859
+DSP-8242,2026-06-05,2026-06-08,2026-06-08,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,78549185
+DSP-8243,2026-06-30,2026-07-02,2026-07-02,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,69844528
+DSP-8244,2026-08-08,2026-08-09,2026-08-09,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,34639431
+DSP-8245,2026-05-29,2026-05-30,2026-05-30,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,73211786
+DSP-8246,2026-07-29,2026-07-30,2026-07-30,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,ITA,Itagüí,Entregado,True,14645795
+DSP-8247,2026-07-19,2026-07-20,2026-07-25,6,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,False,53460187
+DSP-8248,2026-07-25,2026-07-26,2026-07-26,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,71999732
+DSP-8249,2026-07-02,2026-07-05,2026-07-05,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,51714691
+DSP-8250,2026-05-28,2026-05-31,2026-05-31,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,ITA,Itagüí,Entregado,True,43943285
+DSP-8251,2026-07-21,2026-07-24,2026-07-24,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,39785587
+DSP-8252,2026-07-11,2026-07-14,2026-07-14,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,7228087
+DSP-8253,2026-08-14,2026-08-15,2026-08-15,1,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,72290655
+DSP-8254,2026-08-08,2026-08-09,2026-08-09,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,TUN,Tunja,Entregado,True,37361537
+DSP-8255,2026-07-21,2026-07-24,2026-07-24,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,75770782
+DSP-8256,2026-07-14,2026-07-17,2026-07-17,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,BOG-AME,Bogotá · Américas,Entregado,True,81888655
+DSP-8257,2026-07-17,2026-07-18,2026-07-20,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,VIL,Villavicencio,Entregado,False,49089350
+DSP-8258,2026-07-13,2026-07-15,2026-07-15,2,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,44632348
+DSP-8259,2026-05-27,2026-05-29,2026-05-31,4,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,False,51726334
+DSP-8260,2026-07-30,2026-07-31,2026-07-31,1,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,28706668
+DSP-8261,2026-06-21,2026-06-23,2026-06-25,4,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,False,19243657
+DSP-8262,2026-05-27,2026-05-29,2026-05-29,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,30494899
+DSP-8263,2026-06-28,2026-06-30,2026-06-30,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,65505840
+DSP-8264,2026-07-26,2026-07-27,2026-07-31,5,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,TUN,Tunja,Entregado,False,64252910
+DSP-8265,2026-07-05,2026-07-07,2026-07-07,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,34681498
+DSP-8266,2026-08-08,2026-08-09,2026-08-09,1,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,48712961
+DSP-8267,2026-07-31,2026-08-01,2026-08-01,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,31356585
+DSP-8268,2026-06-20,2026-06-21,2026-06-21,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,7035118
+DSP-8269,2026-06-06,2026-06-07,2026-06-10,4,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,67619101
+DSP-8270,2026-07-16,2026-07-17,2026-07-17,1,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,29431970
+DSP-8271,2026-06-10,2026-06-13,2026-06-13,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,47082245
+DSP-8272,2026-06-25,2026-06-28,2026-06-28,3,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,64083578
+DSP-8273,2026-07-25,2026-07-27,2026-07-27,2,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,24336379
+DSP-8274,2026-05-27,2026-05-29,2026-05-29,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,6296707
+DSP-8275,2026-08-13,2026-08-15,2026-08-16,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,5094478
+DSP-8276,2026-06-19,2026-06-21,2026-06-21,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,69552210
+DSP-8277,2026-07-25,2026-07-27,2026-07-27,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,46317203
+DSP-8278,2026-08-10,2026-08-13,2026-08-13,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,35927447
+DSP-8279,2026-06-21,2026-06-24,2026-06-26,5,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,75806818
+DSP-8280,2026-07-13,2026-07-14,2026-07-14,1,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,60593207
+DSP-8281,2026-07-12,2026-07-14,2026-07-14,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,70166888
+DSP-8282,2026-07-08,2026-07-10,2026-07-10,2,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,16390945
+DSP-8283,2026-06-21,2026-06-22,2026-06-22,1,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,VIL,Villavicencio,Entregado,True,22258610
+DSP-8284,2026-07-21,2026-07-23,2026-07-23,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,78824318
+DSP-8285,2026-07-26,2026-07-27,2026-07-27,1,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,52673340
+DSP-8286,2026-06-06,2026-06-07,2026-06-07,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,46802542
+DSP-8287,2026-07-19,2026-07-21,2026-07-21,2,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,64393755
+DSP-8288,2026-07-31,2026-08-03,2026-08-08,8,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,False,79521972
+DSP-8289,2026-06-28,2026-06-29,2026-06-29,1,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,34372154
+DSP-8290,2026-06-20,2026-06-21,2026-06-21,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,75903184
+DSP-8291,2026-07-14,2026-07-16,2026-07-20,6,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,47093444
+DSP-8292,2026-08-08,2026-08-10,2026-08-10,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,63957888
+DSP-8293,2026-05-27,2026-05-29,2026-05-29,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,68770667
+DSP-8294,2026-06-26,2026-06-27,2026-06-27,1,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,65495514
+DSP-8295,2026-06-01,2026-06-04,2026-06-04,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,52467776
+DSP-8296,2026-06-24,2026-06-27,2026-06-27,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,62601381
+DSP-8297,2026-06-24,2026-06-25,2026-06-25,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,43973513
+DSP-8298,2026-08-11,2026-08-13,2026-08-13,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,73672934
+DSP-8299,2026-08-12,2026-08-14,2026-08-14,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,35297146
+DSP-8300,2026-06-11,2026-06-14,2026-06-16,5,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,TUN,Tunja,Entregado,False,32990258
+DSP-8301,2026-08-05,2026-08-06,2026-08-06,1,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,36812068
+DSP-8302,2026-07-30,2026-07-31,2026-07-31,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,28100337
+DSP-8303,2026-07-27,2026-07-28,2026-07-31,4,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,TUN,Tunja,Entregado,False,22768084
+DSP-8304,2026-05-30,2026-05-31,2026-05-31,1,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,59936372
+DSP-8305,2026-08-19,2026-08-20,2026-08-20,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,74512843
+DSP-8306,2026-07-18,2026-07-20,2026-07-20,2,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,65387278
+DSP-8307,2026-07-19,2026-07-22,2026-07-25,6,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,72044150
+DSP-8308,2026-08-12,2026-08-13,2026-08-13,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,52865957
+DSP-8309,2026-08-17,2026-08-19,2026-08-19,2,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,ITA,Itagüí,Entregado,True,56158575
+DSP-8310,2026-08-20,2026-08-23,,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,SIB,CEDI Siberia,En tránsito,,44243399
+DSP-8311,2026-06-06,2026-06-08,2026-06-08,2,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,41938011
+DSP-8312,2026-07-27,2026-07-28,2026-07-28,1,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,54250578
+DSP-8313,2026-05-29,2026-05-30,2026-05-30,1,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,76676607
+DSP-8314,2026-07-28,2026-07-31,2026-07-31,3,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,79701899
+DSP-8315,2026-06-25,2026-06-28,2026-06-28,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,SIB,CEDI Siberia,Entregado,True,27760942
+DSP-8316,2026-08-06,2026-08-07,2026-08-07,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,34522945
+DSP-8317,2026-06-14,2026-06-17,2026-06-17,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,55418795
+DSP-8318,2026-06-24,2026-06-25,2026-06-25,1,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,83415232
+DSP-8319,2026-07-17,2026-07-20,2026-07-24,7,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,67251150
+DSP-8320,2026-08-17,2026-08-20,2026-08-20,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,73161351
+DSP-8321,2026-08-03,2026-08-06,2026-08-06,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,43537418
+DSP-8322,2026-08-10,2026-08-13,2026-08-13,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,49229125
+DSP-8323,2026-08-08,2026-08-10,2026-08-10,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,68327681
+DSP-8324,2026-07-02,2026-07-04,2026-07-04,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,84338567
+DSP-8325,2026-07-17,2026-07-18,2026-07-18,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,56390443
+DSP-8326,2026-06-15,2026-06-18,2026-06-18,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,59880554
+DSP-8327,2026-06-03,2026-06-06,2026-06-06,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,24578949
+DSP-8328,2026-08-16,2026-08-19,2026-08-19,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,79041300
+DSP-8329,2026-07-09,2026-07-12,2026-07-12,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,BOG-AME,Bogotá · Américas,Entregado,True,8144131
+DSP-8330,2026-08-11,2026-08-12,2026-08-12,1,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,51599895
+DSP-8331,2026-06-18,2026-06-20,2026-06-20,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,42453053
+DSP-8332,2026-08-20,2026-08-23,,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,En tránsito,,56286849
+DSP-8333,2026-08-16,2026-08-18,2026-08-18,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,45747747
+DSP-8334,2026-06-11,2026-06-14,2026-06-14,3,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,71178333
+DSP-8335,2026-06-22,2026-06-23,2026-06-23,1,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,49468237
+DSP-8336,2026-08-16,2026-08-17,2026-08-17,1,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,67809260
+DSP-8337,2026-07-26,2026-07-27,2026-07-28,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,False,12445186
+DSP-8338,2026-06-08,2026-06-10,2026-06-10,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,48465288
+DSP-8339,2026-07-07,2026-07-08,2026-07-08,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,55030682
+DSP-8340,2026-07-04,2026-07-06,2026-07-06,2,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,ITA,Itagüí,Entregado,True,41522971
+DSP-8341,2026-07-12,2026-07-15,2026-07-15,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,84847449
+DSP-8342,2026-06-05,2026-06-06,2026-06-06,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,67596385
+DSP-8343,2026-07-04,2026-07-06,2026-07-06,2,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,71264432
+DSP-8344,2026-08-07,2026-08-10,2026-08-10,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,66598469
+DSP-8345,2026-07-17,2026-07-20,2026-07-20,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,71128585
+DSP-8346,2026-08-11,2026-08-13,2026-08-13,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,83593432
+DSP-8347,2026-08-05,2026-08-07,2026-08-07,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,ITA,Itagüí,Entregado,True,84680374
+DSP-8348,2026-06-17,2026-06-19,2026-06-19,2,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,39493735
+DSP-8349,2026-07-15,2026-07-18,2026-07-18,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,14950496
+DSP-8350,2026-06-18,2026-06-20,2026-06-21,3,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,False,83886111
+DSP-8351,2026-07-12,2026-07-14,2026-07-14,2,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,60838689
+DSP-8352,2026-07-03,2026-07-05,2026-07-05,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,42249942
+DSP-8353,2026-07-20,2026-07-21,2026-07-21,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,50703095
+DSP-8354,2026-08-20,2026-08-21,2026-08-22,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,24372998
+DSP-8355,2026-07-04,2026-07-07,2026-07-07,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,29640346
+DSP-8356,2026-07-24,2026-07-25,2026-07-25,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,68057796
+DSP-8357,2026-06-07,2026-06-09,2026-06-09,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,BOG-QUI,Bogotá · Químicos,Entregado,True,50214394
+DSP-8358,2026-08-02,2026-08-03,2026-08-03,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,80815353
+DSP-8359,2026-08-06,2026-08-09,2026-08-09,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,78313702
+DSP-8360,2026-07-04,2026-07-06,2026-07-06,2,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,TUN,Tunja,Entregado,True,66059938
+DSP-8361,2026-06-08,2026-06-10,2026-06-10,2,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,78000385
+DSP-8362,2026-07-09,2026-07-12,2026-07-12,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,12207412
+DSP-8363,2026-05-28,2026-05-30,2026-05-30,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,TUN,Tunja,Entregado,True,63868893
+DSP-8364,2026-05-25,2026-05-27,2026-05-27,2,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,True,54730670
+DSP-8365,2026-08-10,2026-08-12,2026-08-12,2,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,36791864
+DSP-8366,2026-06-28,2026-07-01,2026-07-01,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,37994469
+DSP-8367,2026-07-26,2026-07-29,2026-07-29,3,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,6915358
+DSP-8368,2026-06-06,2026-06-09,2026-06-09,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,22658131
+DSP-8369,2026-07-02,2026-07-04,2026-07-04,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,39875840
+DSP-8370,2026-08-08,2026-08-10,2026-08-10,2,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,ITA,Itagüí,Entregado,True,15289436
+DSP-8371,2026-08-01,2026-08-04,2026-08-04,3,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,38282145
+DSP-8372,2026-08-02,2026-08-04,2026-08-04,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,28448184
+DSP-8373,2026-08-01,2026-08-03,2026-08-03,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,48898217
+DSP-8374,2026-07-01,2026-07-03,2026-07-03,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,6730921
+DSP-8375,2026-06-27,2026-06-30,2026-06-30,3,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,30165671
+DSP-8376,2026-07-22,2026-07-25,2026-07-25,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,TUN,Tunja,Entregado,True,52539287
+DSP-8377,2026-07-22,2026-07-23,2026-07-23,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,22716636
+DSP-8378,2026-08-03,2026-08-04,2026-08-04,1,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,21066536
+DSP-8379,2026-08-06,2026-08-08,2026-08-08,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,81054871
+DSP-8380,2026-07-17,2026-07-20,2026-07-20,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,82551563
+DSP-8381,2026-08-09,2026-08-12,2026-08-12,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,ITA,Itagüí,Entregado,True,72064962
+DSP-8382,2026-07-17,2026-07-20,2026-07-20,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,VIL,Villavicencio,Entregado,True,9008712
+DSP-8383,2026-05-29,2026-06-01,2026-06-01,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,47452484
+DSP-8384,2026-07-26,2026-07-27,2026-07-27,1,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,21255916
+DSP-8385,2026-06-08,2026-06-10,2026-06-12,4,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,False,84918674
+DSP-8386,2026-06-03,2026-06-06,2026-06-06,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,ITA,Itagüí,Entregado,True,75591872
+DSP-8387,2026-06-09,2026-06-10,2026-06-10,1,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,8120292
+DSP-8388,2026-06-10,2026-06-13,2026-06-13,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,63201024
+DSP-8389,2026-07-21,2026-07-24,2026-07-24,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,68629939
+DSP-8390,2026-07-14,2026-07-15,2026-07-15,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,81435216
+DSP-8391,2026-08-15,2026-08-16,2026-08-16,1,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,29305166
+DSP-8392,2026-08-09,2026-08-10,2026-08-10,1,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,BOG-AME,Bogotá · Américas,Entregado,True,19115687
+DSP-8393,2026-06-09,2026-06-12,2026-06-12,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,51510966
+DSP-8394,2026-08-06,2026-08-08,2026-08-08,2,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,59231995
+DSP-8395,2026-07-15,2026-07-16,2026-07-16,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,54106220
+DSP-8396,2026-08-08,2026-08-11,2026-08-11,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,35276657
+DSP-8397,2026-06-17,2026-06-18,2026-06-21,4,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,25651116
+DSP-8398,2026-08-15,2026-08-17,2026-08-17,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,59537383
+DSP-8399,2026-06-02,2026-06-05,2026-06-05,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,SIB,CEDI Siberia,Entregado,True,82060615
+DSP-8400,2026-08-19,2026-08-22,2026-08-22,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,13403454
+DSP-8401,2026-08-13,2026-08-15,2026-08-15,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,21971312
+DSP-8402,2026-06-16,2026-06-18,2026-06-23,7,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,False,10998883
+DSP-8403,2026-05-29,2026-05-31,2026-05-31,2,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,75271511
+DSP-8404,2026-07-02,2026-07-05,2026-07-05,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,73347812
+DSP-8405,2026-07-01,2026-07-02,2026-07-02,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,25460662
+DSP-8406,2026-06-23,2026-06-26,2026-06-26,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,49490370
+DSP-8407,2026-05-31,2026-06-03,2026-06-03,3,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,31216870
+DSP-8408,2026-06-04,2026-06-07,2026-06-07,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,38399036
+DSP-8409,2026-07-25,2026-07-27,2026-07-27,2,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,31172923
+DSP-8410,2026-07-06,2026-07-09,2026-07-14,8,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,False,53252134
+DSP-8411,2026-07-15,2026-07-17,2026-07-17,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,59969808
+DSP-8412,2026-06-02,2026-06-05,2026-06-05,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,36123740
+DSP-8413,2026-07-03,2026-07-05,2026-07-05,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,52683553
+DSP-8414,2026-07-18,2026-07-20,2026-07-20,2,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,19733542
+DSP-8415,2026-07-02,2026-07-03,2026-07-03,1,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,26946980
+DSP-8416,2026-07-26,2026-07-27,2026-07-27,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,6699268
+DSP-8417,2026-07-23,2026-07-26,2026-07-26,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,7585679
+DSP-8418,2026-07-03,2026-07-06,2026-07-06,3,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,26114833
+DSP-8419,2026-06-18,2026-06-19,2026-06-19,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,71380621
+DSP-8420,2026-06-06,2026-06-09,2026-06-09,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,76559837
+DSP-8421,2026-06-08,2026-06-09,2026-06-09,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,TUN,Tunja,Entregado,True,12486194
+DSP-8422,2026-06-30,2026-07-03,2026-07-03,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,42478168
+DSP-8423,2026-06-21,2026-06-22,2026-06-22,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,58925407
+DSP-8424,2026-08-04,2026-08-07,2026-08-07,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,60008218
+DSP-8425,2026-06-07,2026-06-10,2026-06-10,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,77749433
+DSP-8426,2026-07-05,2026-07-08,2026-07-08,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,74177676
+DSP-8427,2026-08-08,2026-08-11,2026-08-11,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,67321709
+DSP-8428,2026-07-05,2026-07-06,2026-07-06,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,26487341
+DSP-8429,2026-07-31,2026-08-02,2026-08-03,3,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,50500639
+DSP-8430,2026-05-30,2026-05-31,2026-06-01,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,84546821
+DSP-8431,2026-08-13,2026-08-14,2026-08-14,1,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,55660601
+DSP-8432,2026-08-14,2026-08-16,2026-08-16,2,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,29241169
+DSP-8433,2026-07-13,2026-07-16,2026-07-16,3,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,65919853
+DSP-8434,2026-07-19,2026-07-22,2026-07-22,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,82581424
+DSP-8435,2026-08-04,2026-08-05,2026-08-05,1,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,TUN,Tunja,Entregado,True,49213881
+DSP-8436,2026-05-29,2026-05-31,2026-05-31,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,38193214
+DSP-8437,2026-06-10,2026-06-13,2026-06-13,3,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,58042224
+DSP-8438,2026-07-06,2026-07-07,2026-07-07,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,83490107
+DSP-8439,2026-06-23,2026-06-25,2026-06-29,6,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,SIB,CEDI Siberia,Entregado,False,52577602
+DSP-8440,2026-07-10,2026-07-12,2026-07-12,2,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,44803152
+DSP-8441,2026-08-16,2026-08-18,2026-08-19,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,59842477
+DSP-8442,2026-08-22,2026-08-24,,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,En tránsito,,23649451
+DSP-8443,2026-07-21,2026-07-23,2026-07-23,2,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,64217276
+DSP-8444,2026-06-22,2026-06-24,2026-06-28,6,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,13489472
+DSP-8445,2026-07-26,2026-07-27,2026-07-27,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,19594974
+DSP-8446,2026-07-06,2026-07-09,2026-07-09,3,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,71986170
+DSP-8447,2026-08-21,2026-08-24,,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,En tránsito,,42814654
+DSP-8448,2026-06-18,2026-06-19,2026-06-19,1,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,TUN,Tunja,Entregado,True,22471506
+DSP-8449,2026-06-11,2026-06-12,2026-06-15,4,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,46811622
+DSP-8450,2026-07-08,2026-07-10,2026-07-14,6,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,24160297
+DSP-8451,2026-08-05,2026-08-08,2026-08-08,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,57420657
+DSP-8452,2026-06-27,2026-06-30,2026-06-30,3,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,84339665
+DSP-8453,2026-08-20,2026-08-22,2026-08-22,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,22377837
+DSP-8454,2026-07-26,2026-07-27,2026-07-27,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,77846766
+DSP-8455,2026-07-31,2026-08-03,2026-08-03,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,67230883
+DSP-8456,2026-06-23,2026-06-24,2026-06-24,1,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,TUN,Tunja,Entregado,True,53878211
+DSP-8457,2026-08-07,2026-08-08,2026-08-08,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,42713562
+DSP-8458,2026-05-27,2026-05-30,2026-05-30,3,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,54974840
+DSP-8459,2026-08-12,2026-08-15,2026-08-17,5,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,74695557
+DSP-8460,2026-07-05,2026-07-06,2026-07-06,1,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,29225438
+DSP-8461,2026-07-06,2026-07-09,2026-07-14,8,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,9649661
+DSP-8462,2026-06-27,2026-06-30,2026-07-02,5,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,VIL,Villavicencio,Entregado,False,55853198
+DSP-8463,2026-07-14,2026-07-16,2026-07-16,2,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,BOG-AME,Bogotá · Américas,Entregado,True,81876274
+DSP-8464,2026-07-30,2026-08-01,2026-08-01,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,21676317
+DSP-8465,2026-06-05,2026-06-06,2026-06-06,1,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,38450569
+DSP-8466,2026-07-20,2026-07-21,2026-07-21,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,18167057
+DSP-8467,2026-08-15,2026-08-16,2026-08-16,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,60662272
+DSP-8468,2026-08-14,2026-08-16,2026-08-16,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,80315854
+DSP-8469,2026-07-08,2026-07-11,2026-07-11,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,40634701
+DSP-8470,2026-07-26,2026-07-28,2026-07-28,2,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,52389047
+DSP-8471,2026-07-10,2026-07-13,2026-07-13,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,39780334
+DSP-8472,2026-07-20,2026-07-23,2026-07-23,3,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,18190292
+DSP-8473,2026-07-11,2026-07-12,2026-07-12,1,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,TUN,Tunja,Entregado,True,84728529
+DSP-8474,2026-08-17,2026-08-18,2026-08-18,1,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,78818848
+DSP-8475,2026-05-31,2026-06-01,2026-06-01,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,18506311
+DSP-8476,2026-06-28,2026-07-01,2026-07-01,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,39038040
+DSP-8477,2026-05-25,2026-05-28,2026-05-28,3,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,11004870
+DSP-8478,2026-06-11,2026-06-12,2026-06-12,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,68191977
+DSP-8479,2026-05-28,2026-05-30,2026-05-30,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,62912173
+DSP-8480,2026-06-11,2026-06-13,2026-06-13,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,23397849
+DSP-8481,2026-08-13,2026-08-14,2026-08-14,1,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,84719330
+DSP-8482,2026-07-03,2026-07-05,2026-07-05,2,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,80991861
+DSP-8483,2026-07-21,2026-07-23,2026-07-23,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,41706876
+DSP-8484,2026-07-02,2026-07-05,2026-07-05,3,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,27254234
+DSP-8485,2026-08-14,2026-08-15,2026-08-15,1,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,49212550
+DSP-8486,2026-07-18,2026-07-20,2026-07-20,2,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,51588718
+DSP-8487,2026-06-30,2026-07-03,2026-07-03,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,ITA,Itagüí,Entregado,True,31656458
+DSP-8488,2026-08-12,2026-08-13,2026-08-13,1,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,32380017
+DSP-8489,2026-07-01,2026-07-02,2026-07-02,1,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,18659883
+DSP-8490,2026-07-14,2026-07-17,2026-07-17,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,78842828
+DSP-8491,2026-07-25,2026-07-28,2026-07-28,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,44131544
+DSP-8492,2026-06-16,2026-06-17,2026-06-19,3,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,14142467
+DSP-8493,2026-07-20,2026-07-21,2026-07-21,1,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,56819888
+DSP-8494,2026-06-05,2026-06-08,2026-06-08,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,BOG-QUI,Bogotá · Químicos,Entregado,True,83242661
+DSP-8495,2026-07-06,2026-07-08,2026-07-08,2,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,18175074
+DSP-8496,2026-07-21,2026-07-22,2026-07-22,1,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,53014862
+DSP-8497,2026-05-30,2026-06-02,2026-06-02,3,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,55515701
+DSP-8498,2026-07-03,2026-07-06,2026-07-06,3,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,66652887
+DSP-8499,2026-07-03,2026-07-05,2026-07-07,4,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,BOG-AME,Bogotá · Américas,Entregado,False,70465492
+DSP-8500,2026-07-25,2026-07-27,2026-07-27,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,40109435
+DSP-8501,2026-06-01,2026-06-03,2026-06-03,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,66330488
+DSP-8502,2026-06-26,2026-06-29,2026-06-29,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,38266266
+DSP-8503,2026-07-09,2026-07-12,2026-07-12,3,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,TUN,Tunja,Entregado,True,23520652
+DSP-8504,2026-07-30,2026-07-31,2026-07-31,1,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,31621679
+DSP-8505,2026-08-01,2026-08-02,2026-08-02,1,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,BOG-AME,Bogotá · Américas,Entregado,True,15026037
+DSP-8506,2026-05-25,2026-05-27,2026-05-27,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,76456137
+DSP-8507,2026-08-18,2026-08-21,2026-08-21,3,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,52040150
+DSP-8508,2026-05-27,2026-05-29,2026-05-29,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,60190718
+DSP-8509,2026-07-18,2026-07-19,2026-07-19,1,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,25664474
+DSP-8510,2026-06-29,2026-07-01,2026-07-05,6,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,43568235
+DSP-8511,2026-07-03,2026-07-06,2026-07-06,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,ITA,Itagüí,Entregado,True,37178476
+DSP-8512,2026-08-17,2026-08-20,2026-08-20,3,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,62927233
+DSP-8513,2026-06-15,2026-06-18,2026-06-22,7,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,77499125
+DSP-8514,2026-07-28,2026-07-30,2026-08-01,4,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,TUN,Tunja,Entregado,False,24438659
+DSP-8515,2026-08-06,2026-08-09,2026-08-14,8,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,29867609
+DSP-8516,2026-06-23,2026-06-26,2026-06-26,3,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,50483593
+DSP-8517,2026-06-02,2026-06-05,2026-06-05,3,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,33677843
+DSP-8518,2026-06-22,2026-06-24,2026-06-24,2,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,Meta,BOG-QUI,Bogotá · Químicos,Entregado,True,27343898
+DSP-8519,2026-07-24,2026-07-26,2026-07-26,2,CLI-001,Alquería S.A.,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,64253952
+DSP-8520,2026-07-13,2026-07-14,2026-07-14,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,78308251
+DSP-8521,2026-06-27,2026-06-30,2026-06-30,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,ITA,Itagüí,Entregado,True,55055104
+DSP-8522,2026-07-20,2026-07-22,2026-07-22,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,82962548
+DSP-8523,2026-08-05,2026-08-07,2026-08-07,2,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,33635582
+DSP-8524,2026-06-28,2026-06-29,2026-06-29,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,ITA,Itagüí,Entregado,True,44956424
+DSP-8525,2026-07-08,2026-07-10,2026-07-10,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,31562707
+DSP-8526,2026-05-31,2026-06-01,2026-06-01,1,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,12172335
+DSP-8527,2026-08-17,2026-08-19,2026-08-19,2,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,TUN,Tunja,Entregado,True,51946206
+DSP-8528,2026-06-10,2026-06-11,2026-06-13,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,29859258
+DSP-8529,2026-06-16,2026-06-19,2026-06-19,3,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,40983181
+DSP-8530,2026-08-04,2026-08-06,2026-08-06,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,47646214
+DSP-8531,2026-06-27,2026-06-30,2026-06-30,3,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,32509040
+DSP-8532,2026-07-09,2026-07-12,2026-07-12,3,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,35053156
+DSP-8533,2026-06-16,2026-06-18,2026-06-18,2,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,33527683
+DSP-8534,2026-08-05,2026-08-06,2026-08-06,1,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,66852415
+DSP-8535,2026-07-23,2026-07-24,2026-07-24,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,SIB,CEDI Siberia,Entregado,True,38458863
+DSP-8536,2026-08-01,2026-08-03,2026-08-03,2,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,20762489
+DSP-8537,2026-08-11,2026-08-14,2026-08-14,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,SIB,CEDI Siberia,Entregado,True,29629913
+DSP-8538,2026-08-05,2026-08-06,2026-08-06,1,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,51931467
+DSP-8539,2026-06-10,2026-06-12,2026-06-17,7,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,84134512
+DSP-8540,2026-06-05,2026-06-08,2026-06-08,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,VIL,Villavicencio,Entregado,True,36858840
+DSP-8541,2026-07-10,2026-07-13,2026-07-13,3,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,BOG-QUI,Bogotá · Químicos,Entregado,True,60500164
+DSP-8542,2026-06-22,2026-06-25,2026-06-25,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,52025278
+DSP-8543,2026-05-27,2026-05-30,2026-05-30,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,27918349
+DSP-8544,2026-07-03,2026-07-04,2026-07-04,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,True,49121952
+DSP-8545,2026-08-02,2026-08-05,2026-08-05,3,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,32768614
+DSP-8546,2026-07-31,2026-08-01,2026-08-01,1,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,Meta,MOS,CEDI Mosquera,Entregado,True,39195227
+DSP-8547,2026-07-14,2026-07-16,2026-07-21,7,CLI-013,Noel S.A.S.,Panadería,Medellín,Antioquia,BOG-AME,Bogotá · Américas,Entregado,False,60626336
+DSP-8548,2026-06-09,2026-06-10,2026-06-10,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,75766957
+DSP-8549,2026-08-12,2026-08-13,2026-08-13,1,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,11188843
+DSP-8550,2026-06-05,2026-06-06,2026-06-10,5,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,False,78872717
+DSP-8551,2026-06-09,2026-06-11,2026-06-11,2,CLI-003,Alpina S.A.,Lácteos,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,38165306
+DSP-8552,2026-07-18,2026-07-20,2026-07-21,3,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,False,67299565
+DSP-8553,2026-06-30,2026-07-02,2026-07-02,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,21138253
+DSP-8554,2026-06-10,2026-06-13,2026-06-13,3,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,MOS,CEDI Mosquera,Entregado,True,30174929
+DSP-8555,2026-06-16,2026-06-18,2026-06-18,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,ITA,Itagüí,Entregado,True,76525369
+DSP-8556,2026-06-27,2026-06-29,2026-06-30,3,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,34007720
+DSP-8557,2026-07-19,2026-07-20,2026-07-21,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,False,25277930
+DSP-8558,2026-07-12,2026-07-15,2026-07-17,5,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,48302870
+DSP-8559,2026-05-26,2026-05-28,2026-05-28,2,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,81059559
+DSP-8560,2026-08-11,2026-08-12,2026-08-12,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,72514127
+DSP-8561,2026-06-02,2026-06-03,2026-06-03,1,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,True,83261459
+DSP-8562,2026-07-31,2026-08-01,2026-08-01,1,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,SIB,CEDI Siberia,Entregado,True,20029337
+DSP-8563,2026-07-05,2026-07-07,2026-07-07,2,CLI-014,Pan Pa' Ya,Panadería,Bogotá,Cundinamarca,VIL,Villavicencio,Entregado,True,31704716
+DSP-8564,2026-08-20,2026-08-22,2026-08-22,2,CLI-002,Colanta Ltda.,Lácteos,Medellín,Antioquia,ITA,Itagüí,Entregado,True,67151905
+DSP-8565,2026-08-22,2026-08-23,,1,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,SIB,CEDI Siberia,En tránsito,,35369984
+DSP-8566,2026-07-14,2026-07-16,2026-07-16,2,CLI-012,Bimbo Colombia,Panadería,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,28066542
+DSP-8567,2026-08-20,2026-08-21,2026-08-24,4,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,Cundinamarca,VIL,Villavicencio,En tránsito,False,25355688
+DSP-8568,2026-07-24,2026-07-26,2026-07-28,4,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,False,18470092
+DSP-8569,2026-07-11,2026-07-13,2026-07-13,2,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,61570320
+DSP-8570,2026-07-04,2026-07-05,2026-07-05,1,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,VIL,Villavicencio,Entregado,True,77172824
+DSP-8571,2026-07-16,2026-07-19,2026-07-19,3,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,Meta,VIL,Villavicencio,Entregado,True,9901865
+DSP-8572,2026-05-31,2026-06-02,2026-06-02,2,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,Antioquia,TUN,Tunja,Entregado,True,33709381
+DSP-8573,2026-06-27,2026-06-30,2026-06-30,3,CLI-005,Lácteos El Recreo,Lácteos,Tunja,Boyacá,ITA,Itagüí,Entregado,True,44925981
+DSP-8574,2026-07-11,2026-07-13,2026-07-13,2,CLI-004,Gloria Colombia,Lácteos,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,57538031
+DSP-8575,2026-06-03,2026-06-05,2026-06-05,2,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,True,11246456
+DSP-8576,2026-07-16,2026-07-17,2026-07-20,4,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,Antioquia,BOG-QUI,Bogotá · Químicos,Entregado,False,60519488
+DSP-8577,2026-07-04,2026-07-06,2026-07-11,7,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,Cundinamarca,BOG-AME,Bogotá · Américas,Entregado,False,73159646
+DSP-8578,2026-05-25,2026-05-28,2026-05-28,3,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,Cundinamarca,MOS,CEDI Mosquera,Entregado,True,32460647
+DSP-8579,2026-06-28,2026-07-01,2026-07-01,3,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,Cundinamarca,BOG-QUI,Bogotá · Químicos,Entregado,True,19376468

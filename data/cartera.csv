@@ -1,0 +1,177 @@
+factura_id,cliente_id,cliente,sector,ciudad,credito_dias,fecha_factura,fecha_vencimiento,dias_mora,valor_cop,estado
+FAC-1000,CLI-001,Alquería S.A.,Lácteos,Bogotá,60,2026-01-19,2026-03-20,155,152291765,Vencida +90
+FAC-1001,CLI-001,Alquería S.A.,Lácteos,Bogotá,60,2026-02-12,2026-04-13,131,16604620,Vencida +90
+FAC-1002,CLI-001,Alquería S.A.,Lácteos,Bogotá,60,2026-02-23,2026-04-24,120,162712020,Vencida +90
+FAC-1003,CLI-001,Alquería S.A.,Lácteos,Bogotá,60,2026-03-05,2026-05-04,110,153107383,Vencida +90
+FAC-1004,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2025-12-29,2026-02-12,191,171043878,Vencida +90
+FAC-1005,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2025-12-11,2026-01-25,209,95184690,Vencida +90
+FAC-1006,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2026-01-12,2026-02-26,177,27269629,Vencida +90
+FAC-1007,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2026-03-17,2026-05-01,113,167109596,Vencida +90
+FAC-1008,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2026-03-12,2026-04-26,118,16870295,Vencida +90
+FAC-1009,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2026-03-23,2026-05-07,107,10666504,Vencida +90
+FAC-1010,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2026-02-10,2026-03-27,148,36163931,Vencida +90
+FAC-1011,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2025-12-17,2026-01-31,203,13946374,Vencida +90
+FAC-1012,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2026-03-18,2026-05-02,112,96892937,Vencida +90
+FAC-1013,CLI-002,Colanta Ltda.,Lácteos,Medellín,45,2026-03-07,2026-04-21,123,87975298,Vencida +90
+FAC-1014,CLI-003,Alpina S.A.,Lácteos,Bogotá,60,2026-01-04,2026-03-05,170,128590776,Vencida +90
+FAC-1015,CLI-003,Alpina S.A.,Lácteos,Bogotá,60,2026-03-29,2026-05-28,86,106589707,Vencida 61-90
+FAC-1016,CLI-003,Alpina S.A.,Lácteos,Bogotá,60,2026-02-20,2026-04-21,123,102860426,Vencida +90
+FAC-1017,CLI-003,Alpina S.A.,Lácteos,Bogotá,60,2026-01-13,2026-03-14,161,68716420,Vencida +90
+FAC-1018,CLI-003,Alpina S.A.,Lácteos,Bogotá,60,2026-01-18,2026-03-19,156,137945924,Vencida +90
+FAC-1019,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-03-13,2026-05-12,102,103328705,Vencida +90
+FAC-1020,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-02-07,2026-04-08,136,162900231,Vencida +90
+FAC-1021,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-02-13,2026-04-14,130,48556853,Vencida +90
+FAC-1022,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2025-12-27,2026-02-25,178,75497620,Vencida +90
+FAC-1023,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-03-09,2026-05-08,106,100496105,Vencida +90
+FAC-1024,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2025-12-04,2026-02-02,201,59255696,Vencida +90
+FAC-1025,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-03-13,2026-05-12,102,89139113,Vencida +90
+FAC-1026,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-02-07,2026-04-08,136,59433422,Vencida +90
+FAC-1027,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-01-18,2026-03-19,156,11576922,Vencida +90
+FAC-1028,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-02-09,2026-04-10,134,158659554,Vencida +90
+FAC-1029,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-01-25,2026-03-26,149,118810688,Vencida +90
+FAC-1030,CLI-004,Gloria Colombia,Lácteos,Bogotá,60,2026-01-19,2026-03-20,155,125184830,Vencida +90
+FAC-1031,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2025-12-17,2026-01-16,218,113339357,Vencida +90
+FAC-1032,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2026-03-16,2026-04-15,129,71974376,Vencida +90
+FAC-1033,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2026-02-06,2026-03-08,167,163708859,Vencida +90
+FAC-1034,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2026-02-12,2026-03-14,161,157193218,Vencida +90
+FAC-1035,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2026-01-01,2026-01-31,203,75376453,Vencida +90
+FAC-1036,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2025-12-21,2026-01-20,214,89487120,Vencida +90
+FAC-1037,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2026-02-06,2026-03-08,167,30421050,Vencida +90
+FAC-1038,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2026-03-18,2026-04-17,127,153918913,Vencida +90
+FAC-1039,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2025-12-28,2026-01-27,207,85476501,Vencida +90
+FAC-1040,CLI-005,Lácteos El Recreo,Lácteos,Tunja,30,2026-02-27,2026-03-29,146,78097046,Vencida +90
+FAC-1041,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,30,2026-01-28,2026-02-27,176,32318628,Vencida +90
+FAC-1042,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,30,2025-12-31,2026-01-30,204,25390823,Vencida +90
+FAC-1043,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,30,2026-02-11,2026-03-13,162,57960370,Vencida +90
+FAC-1044,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,30,2026-01-16,2026-02-15,188,131175392,Vencida +90
+FAC-1045,CLI-006,Procesadora Meta Lácteos,Lácteos,Villavicencio,30,2026-02-13,2026-03-15,160,57164649,Vencida +90
+FAC-1046,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2025-12-22,2026-01-21,213,153118897,Vencida +90
+FAC-1047,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-02-20,2026-03-22,153,15382308,Vencida +90
+FAC-1048,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-01-07,2026-02-06,197,43878363,Vencida +90
+FAC-1049,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-03-06,2026-04-05,139,145030938,Vencida +90
+FAC-1050,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-03-18,2026-04-17,127,151725510,Vencida +90
+FAC-1051,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-03-03,2026-04-02,142,64855292,Vencida +90
+FAC-1052,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-01-16,2026-02-15,188,126803339,Vencida +90
+FAC-1053,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-01-11,2026-02-10,193,95245613,Vencida +90
+FAC-1054,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-01-17,2026-02-16,187,73244898,Vencida +90
+FAC-1055,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-02-09,2026-03-11,164,104248269,Vencida +90
+FAC-1056,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-02-18,2026-03-20,155,169932518,Vencida +90
+FAC-1057,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2025-12-07,2026-01-06,228,20862125,Vencida +90
+FAC-1058,CLI-007,La Carreta Alimentos,Cárnicos,Bogotá,30,2026-01-14,2026-02-13,190,22206639,Vencida +90
+FAC-1059,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,45,2026-02-01,2026-03-18,157,57586811,Vencida +90
+FAC-1060,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,45,2025-12-26,2026-02-09,194,9410836,Vencida +90
+FAC-1061,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,45,2025-12-17,2026-01-31,203,176702136,Vencida +90
+FAC-1062,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,45,2026-01-04,2026-02-18,185,178429028,Vencida +90
+FAC-1063,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,45,2026-03-05,2026-04-19,125,114401767,Vencida +90
+FAC-1064,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,45,2025-12-31,2026-02-14,189,67568499,Vencida +90
+FAC-1065,CLI-008,Zenú S.A.S.,Cárnicos,Medellín,45,2026-03-06,2026-04-20,124,74246971,Vencida +90
+FAC-1066,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,30,2026-01-28,2026-02-27,176,34219887,Vencida +90
+FAC-1067,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,30,2026-02-22,2026-03-24,151,174528887,Vencida +90
+FAC-1068,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,30,2026-03-23,2026-04-22,122,130867717,Vencida +90
+FAC-1069,CLI-009,Rica Rondo S.A.,Cárnicos,Bogotá,30,2026-03-02,2026-04-01,143,33262255,Vencida +90
+FAC-1070,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2026-02-23,2026-04-09,135,125478536,Vencida +90
+FAC-1071,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2025-12-16,2026-01-30,204,131553357,Vencida +90
+FAC-1072,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2026-01-06,2026-02-20,183,116836422,Vencida +90
+FAC-1073,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2026-03-02,2026-04-16,128,85507415,Vencida +90
+FAC-1074,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2025-12-05,2026-01-19,215,98996605,Vencida +90
+FAC-1075,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2026-01-21,2026-03-07,168,102494554,Vencida +90
+FAC-1076,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2026-03-18,2026-05-02,112,108887075,Vencida +90
+FAC-1077,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2026-03-12,2026-04-26,118,134051584,Vencida +90
+FAC-1078,CLI-010,Frigorífico Guadalupe,Cárnicos,Bogotá,45,2025-12-15,2026-01-29,205,53297411,Vencida +90
+FAC-1079,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,30,2026-03-29,2026-04-28,116,63234732,Vencida +90
+FAC-1080,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,30,2026-01-13,2026-02-12,191,38174870,Vencida +90
+FAC-1081,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,30,2026-02-03,2026-03-05,170,146702149,Vencida +90
+FAC-1082,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,30,2025-12-25,2026-01-24,210,13866342,Vencida +90
+FAC-1083,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,30,2025-12-11,2026-01-10,224,113045244,Vencida +90
+FAC-1084,CLI-011,Frigoríficos El Progreso,Cárnicos,Villavicencio,30,2025-12-26,2026-01-25,209,110364713,Vencida +90
+FAC-1085,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2026-01-15,2026-02-14,189,160808998,Vencida +90
+FAC-1086,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2026-03-22,2026-04-21,123,133998001,Vencida +90
+FAC-1087,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2026-02-16,2026-03-18,157,154334429,Vencida +90
+FAC-1088,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2026-01-12,2026-02-11,192,24931220,Vencida +90
+FAC-1089,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2026-01-28,2026-02-27,176,151833505,Vencida +90
+FAC-1090,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2025-12-28,2026-01-27,207,126064827,Vencida +90
+FAC-1091,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2026-03-17,2026-04-16,128,179260755,Vencida +90
+FAC-1092,CLI-012,Bimbo Colombia,Panadería,Bogotá,30,2026-01-15,2026-02-14,189,147981162,Vencida +90
+FAC-1093,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2025-12-04,2026-01-18,216,122093428,Vencida +90
+FAC-1094,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2026-01-25,2026-03-11,164,21262411,Vencida +90
+FAC-1095,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2026-03-15,2026-04-29,115,122043196,Vencida +90
+FAC-1096,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2025-12-11,2026-01-25,209,154282992,Vencida +90
+FAC-1097,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2025-12-20,2026-02-03,200,33543063,Vencida +90
+FAC-1098,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2026-02-06,2026-03-23,152,114418161,Vencida +90
+FAC-1099,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2026-01-17,2026-03-03,172,91640029,Vencida +90
+FAC-1100,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2025-12-10,2026-01-24,210,46611877,Vencida +90
+FAC-1101,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2025-12-22,2026-02-05,198,84002993,Vencida +90
+FAC-1102,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2026-01-14,2026-02-28,175,69895545,Vencida +90
+FAC-1103,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2026-01-22,2026-03-08,167,100178939,Vencida +90
+FAC-1104,CLI-013,Noel S.A.S.,Panadería,Medellín,45,2026-01-01,2026-02-15,188,20492201,Vencida +90
+FAC-1105,CLI-014,Pan Pa' Ya,Panadería,Bogotá,30,2026-02-14,2026-03-16,159,42615613,Vencida +90
+FAC-1106,CLI-014,Pan Pa' Ya,Panadería,Bogotá,30,2026-01-05,2026-02-04,199,118437733,Vencida +90
+FAC-1107,CLI-014,Pan Pa' Ya,Panadería,Bogotá,30,2026-03-15,2026-04-14,130,29158058,Vencida +90
+FAC-1108,CLI-014,Pan Pa' Ya,Panadería,Bogotá,30,2025-12-21,2026-01-20,214,121050992,Vencida +90
+FAC-1109,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2026-01-12,2026-03-13,162,77460383,Vencida +90
+FAC-1110,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2026-02-19,2026-04-20,124,151091818,Vencida +90
+FAC-1111,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2025-12-04,2026-02-02,201,82778139,Vencida +90
+FAC-1112,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2026-02-03,2026-04-04,140,76413088,Vencida +90
+FAC-1113,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2025-12-07,2026-02-05,198,28749562,Vencida +90
+FAC-1114,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2026-03-10,2026-05-09,105,149373224,Vencida +90
+FAC-1115,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2025-12-10,2026-02-08,195,55365821,Vencida +90
+FAC-1116,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2026-01-22,2026-03-23,152,57021618,Vencida +90
+FAC-1117,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2025-12-04,2026-02-02,201,19849585,Vencida +90
+FAC-1118,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2026-01-19,2026-03-20,155,109709310,Vencida +90
+FAC-1119,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2025-12-11,2026-02-09,194,105249313,Vencida +90
+FAC-1120,CLI-015,Postobón S.A.,Sabores & Colorantes,Bogotá,60,2026-02-18,2026-04-19,125,92686870,Vencida +90
+FAC-1121,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2025-12-20,2026-02-03,200,13513966,Vencida +90
+FAC-1122,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-01-05,2026-02-19,184,108294151,Vencida +90
+FAC-1123,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-03-08,2026-04-22,122,72498459,Vencida +90
+FAC-1124,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-01-25,2026-03-11,164,149731116,Vencida +90
+FAC-1125,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2025-12-21,2026-02-04,199,93450697,Vencida +90
+FAC-1126,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-01-07,2026-02-21,182,97975968,Vencida +90
+FAC-1127,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-01-09,2026-02-23,180,177114618,Vencida +90
+FAC-1128,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-03-21,2026-05-05,109,161168341,Vencida +90
+FAC-1129,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-03-10,2026-04-24,120,168221559,Vencida +90
+FAC-1130,CLI-016,Bavaria S.A.,Sabores & Colorantes,Bogotá,45,2026-02-10,2026-03-27,148,37184454,Vencida +90
+FAC-1131,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,30,2025-12-17,2026-01-16,218,132829384,Vencida +90
+FAC-1132,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,30,2026-02-09,2026-03-11,164,154589510,Vencida +90
+FAC-1133,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,30,2026-03-10,2026-04-09,135,95484479,Vencida +90
+FAC-1134,CLI-017,Frupulpas S.A.S.,Sabores & Colorantes,Bogotá,30,2026-01-14,2026-02-13,190,122678320,Vencida +90
+FAC-1135,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-03-02,2026-04-01,143,48537689,Vencida +90
+FAC-1136,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-03-08,2026-04-07,137,90662051,Vencida +90
+FAC-1137,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-01-24,2026-02-23,180,170578158,Vencida +90
+FAC-1138,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-03-14,2026-04-13,131,89702124,Vencida +90
+FAC-1139,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-01-16,2026-02-15,188,82041948,Vencida +90
+FAC-1140,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-03-28,2026-04-27,117,124065652,Vencida +90
+FAC-1141,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-03-08,2026-04-07,137,135115496,Vencida +90
+FAC-1142,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-02-27,2026-03-29,146,124315490,Vencida +90
+FAC-1143,CLI-018,Laboratorios LABOFARMA,Laboratorio,Bogotá,30,2026-03-11,2026-04-10,134,114348012,Vencida +90
+FAC-1144,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,30,2026-02-24,2026-03-26,149,139356673,Vencida +90
+FAC-1145,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,30,2026-02-27,2026-03-29,146,80007422,Vencida +90
+FAC-1146,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,30,2026-02-08,2026-03-10,165,51818654,Vencida +90
+FAC-1147,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,30,2026-01-22,2026-02-21,182,60401170,Vencida +90
+FAC-1148,CLI-019,Centro Análisis ALF,Laboratorio,Medellín,30,2026-01-28,2026-02-27,176,144526791,Vencida +90
+FAC-1149,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-03-05,2026-04-04,140,126162081,Vencida +90
+FAC-1150,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2025-12-31,2026-01-30,204,104401595,Vencida +90
+FAC-1151,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-01-04,2026-02-03,200,80085250,Vencida +90
+FAC-1152,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-03-23,2026-04-22,122,107119980,Vencida +90
+FAC-1153,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2025-12-14,2026-01-13,221,90872792,Vencida +90
+FAC-1154,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-01-23,2026-02-22,181,123828655,Vencida +90
+FAC-1155,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2025-12-22,2026-01-21,213,92512404,Vencida +90
+FAC-1156,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-02-22,2026-03-24,151,116383227,Vencida +90
+FAC-1157,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-01-08,2026-02-07,196,123258316,Vencida +90
+FAC-1158,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-01-19,2026-02-18,185,179988245,Vencida +90
+FAC-1159,CLI-020,Sodexo Colombia,Aseo & Desinfección,Bogotá,30,2026-02-27,2026-03-29,146,62363649,Vencida +90
+FAC-1160,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-03-10,2026-04-09,135,147986423,Vencida +90
+FAC-1161,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-03-02,2026-04-01,143,123248124,Vencida +90
+FAC-1162,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2025-12-20,2026-01-19,215,157323691,Vencida +90
+FAC-1163,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-01-19,2026-02-18,185,45670393,Vencida +90
+FAC-1164,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-02-19,2026-03-21,154,117735646,Vencida +90
+FAC-1165,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-02-25,2026-03-27,148,106384933,Vencida +90
+FAC-1166,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2025-12-10,2026-01-09,225,17947213,Vencida +90
+FAC-1167,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-01-23,2026-02-22,181,154047363,Vencida +90
+FAC-1168,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-03-01,2026-03-31,144,38898906,Vencida +90
+FAC-1169,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-02-07,2026-03-09,166,62713137,Vencida +90
+FAC-1170,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2025-12-16,2026-01-15,219,139244006,Vencida +90
+FAC-1171,CLI-021,Hotel Las Américas,Aseo & Desinfección,Bogotá,30,2026-02-13,2026-03-15,160,69708413,Vencida +90
+FAC-1172,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,30,2026-03-21,2026-04-20,124,103715826,Vencida +90
+FAC-1173,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,30,2026-01-12,2026-02-11,192,144746937,Vencida +90
+FAC-1174,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,30,2026-03-18,2026-04-17,127,35559954,Vencida +90
+FAC-1175,CLI-022,Avícola Los Llanos,Cárnicos,Villavicencio,30,2026-01-24,2026-02-23,180,23175392,Vencida +90

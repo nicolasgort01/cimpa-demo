@@ -1,0 +1,8 @@
+sede_id,nombre,ciudad,depto,tipo,peso
+BOG-AME,Bogotá · Américas,Bogotá,Cundinamarca,Punto de Venta,0.34
+BOG-QUI,Bogotá · Químicos,Bogotá,Cundinamarca,Punto de Venta,0.14
+ITA,Itagüí,Itagüí,Antioquia,Punto de Venta,0.21
+VIL,Villavicencio,Villavicencio,Meta,Punto de Venta,0.09
+TUN,Tunja,Tunja,Boyacá,Punto de Venta,0.07
+MOS,CEDI Mosquera,Mosquera,Cundinamarca,CEDI,0.1
+SIB,CEDI Siberia,Siberia,Cundinamarca,CEDI,0.05
