@@ -22,12 +22,18 @@ def _load_config():
 
 def _get_ip() -> str:
     try:
-        headers = dict(st.context.headers)
-        return (
-            headers.get("X-Forwarded-For", "").split(",")[0].strip()
-            or headers.get("X-Real-Ip", "")
-            or "desconocida"
-        )
+        h = st.context.headers
+        # Prueba variantes de casing del header
+        for key in ("X-Forwarded-For", "x-forwarded-for", "X-Real-Ip", "x-real-ip"):
+            val = h.get(key, "")
+            if val:
+                return val.split(",")[0].strip()
+    except Exception:
+        pass
+    try:
+        # Fallback: API pública para conocer la IP saliente
+        with urllib.request.urlopen("https://api.ipify.org?format=json", timeout=3) as r:
+            return json.loads(r.read()).get("ip", "desconocida")
     except Exception:
         return "desconocida"
 
