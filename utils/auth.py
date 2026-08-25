@@ -1,5 +1,6 @@
 import json
 import datetime
+import urllib.request
 from pathlib import Path
 
 import streamlit as st
@@ -19,7 +20,39 @@ def _load_config():
         return yaml.safe_load(f)
 
 
+def _get_ip() -> str:
+    try:
+        headers = dict(st.context.headers)
+        return (
+            headers.get("X-Forwarded-For", "").split(",")[0].strip()
+            or headers.get("X-Real-Ip", "")
+            or "desconocida"
+        )
+    except Exception:
+        return "desconocida"
+
+
+def _get_location(ip: str) -> dict:
+    if not ip or ip in ("desconocida", "127.0.0.1", "::1"):
+        return {"ciudad": "local", "pais": "—"}
+    try:
+        url  = f"http://ip-api.com/json/{ip}?fields=status,country,city,regionName"
+        with urllib.request.urlopen(url, timeout=3) as r:
+            data = json.loads(r.read())
+        if data.get("status") == "success":
+            return {
+                "ciudad": data.get("city", "—"),
+                "region": data.get("regionName", "—"),
+                "pais":   data.get("country", "—"),
+            }
+    except Exception:
+        pass
+    return {"ciudad": "—", "pais": "—"}
+
+
 def _log_visit(username: str, name: str):
+    ip  = _get_ip()
+    loc = _get_location(ip)
     log = []
     if _LOG_FILE.exists():
         try:
@@ -30,6 +63,10 @@ def _log_visit(username: str, name: str):
         "timestamp": datetime.datetime.now().isoformat(timespec="seconds"),
         "username":  username,
         "name":      name,
+        "ip":        ip,
+        "ciudad":    loc.get("ciudad", "—"),
+        "region":    loc.get("region", "—"),
+        "pais":      loc.get("pais", "—"),
     })
     _LOG_FILE.write_text(
         json.dumps(log, indent=2, ensure_ascii=False), encoding="utf-8"
@@ -112,7 +149,18 @@ def render_visit_log():
         return
 
     import pandas as pd
-    df = pd.DataFrame(log[::-1])
-    df.columns = ["Fecha / Hora", "Usuario", "Nombre"]
+    rows = []
+    for e in log[::-1]:
+        ubicacion = ", ".join(filter(lambda x: x and x != "—", [
+            e.get("ciudad", ""), e.get("region", ""), e.get("pais", "")
+        ])) or "—"
+        rows.append({
+            "Fecha / Hora": e.get("timestamp", ""),
+            "Nombre":       e.get("name", ""),
+            "Usuario":      e.get("username", ""),
+            "Ubicación":    ubicacion,
+            "IP":           e.get("ip", "—"),
+        })
+    df = pd.DataFrame(rows)
     st.dataframe(df, use_container_width=True, hide_index=True)
     st.caption(f"{len(log)} acceso(s) registrado(s).")
