@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 7
+  key: 50e7371b0d0a7fd3f3883cddc0ffc631ccbb0bb295731b7617d0dbea1cc530d8
+  name: calybrat_cimpa
+credentials:
+  usernames:
+    cimpa_demo:
+      email: ''
+      name: CIMPA Demo
+      password: $2b$12$cLg8xB4A37WlXTg8NxufPepWLw65ZdfPRp.MqouPKu/3leN2WGUmy
+    nicolas:
+      email: nicolasgort@gmail.com
+      name: Nicolás Gort
+      password: $2b$12$n5BftaLAVutmORTjtahmZ.8Cc0Hkmp/eGbrXknlA0dyTl.RNLTHt2

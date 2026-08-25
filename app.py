@@ -4,12 +4,16 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from utils.formatters import CSS, HEADER_CSS, BG, SURF, BORDER, TEXT, MUTED, PURPLE, TEAL
+from utils.auth import require_login, render_visit_log
 
 st.set_page_config(
     page_title="CIMPA · Panel de Inteligencia de Negocios | Calybrat",
     page_icon="🧴",
     layout="wide",
 )
+
+# ── Auth gate ─────────────────────────────────────────────────────────────────
+name, username, authenticator = require_login()
 
 st.markdown(CSS + HEADER_CSS, unsafe_allow_html=True)
 
@@ -56,8 +60,23 @@ with st.sidebar:
             st.session_state.page = label
 
     st.markdown("<div style='height:24px'></div>", unsafe_allow_html=True)
+
+    # Visitas (solo admin)
+    if username == "nicolas":
+        if st.button("📋  Ver accesos", use_container_width=True):
+            st.session_state.page = "__visit_log__"
+
     st.markdown(f"""
-    <div style="padding:12px 16px 8px;text-align:center;border-top:1px solid {BORDER};margin-top:8px">
+    <div style="padding:12px 16px 8px;border-top:1px solid {BORDER};margin-top:8px">
+      <div style="font-size:11px;color:{MUTED};margin-bottom:6px">
+        👤 {name}
+      </div>
+    </div>
+    """, unsafe_allow_html=True)
+    authenticator.logout("Cerrar sesión", location="sidebar")
+
+    st.markdown(f"""
+    <div style="padding:8px 16px;text-align:center">
       <div style="font-size:10.5px;color:{MUTED};margin-bottom:2px">Construido por</div>
       <div style="font-size:13px;font-weight:700;
         background:linear-gradient(135deg,{PURPLE},{TEAL});
@@ -68,6 +87,10 @@ with st.sidebar:
     """, unsafe_allow_html=True)
 
 # ── Load active module ────────────────────────────────────────────────────────
+if st.session_state.get("page") == "__visit_log__":
+    render_visit_log()
+    st.stop()
+
 module_name = PAGES[st.session_state.page]
 try:
     mod = __import__(f"modules.{module_name}", fromlist=[module_name])
