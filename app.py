@@ -18,7 +18,7 @@ name, username, authenticator = require_login()
 st.markdown(CSS + HEADER_CSS, unsafe_allow_html=True)
 
 PAGES = {
-    "🏠  Dashboard General123":          "p01_dashboard",
+    "🏠  Dashboard General":          "p01_dashboard",
     "📦  Inventario Multi-Bodega":    "p02_inventario",
     "💰  Ventas & Clientes":          "p03_ventas",
     "📋  Cartera & Cobranza":         "p04_cartera",
