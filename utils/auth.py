@@ -78,6 +78,20 @@ def _log_visit(username: str, name: str):
         json.dumps(log, indent=2, ensure_ascii=False), encoding="utf-8"
     )
 
+    # El archivo de arriba vive en el disco del contenedor de Streamlit Cloud,
+    # que se borra cuando la app duerme o se redespliega: sirve para la vista
+    # de admin de esta sesión, no para conservar nada. La copia que perdura va
+    # a HubSpot, donde el equipo comercial sí la ve.
+    #
+    # No se envuelve en try/except aquí porque registrar_visita ya lo hace por
+    # dentro y nunca lanza: un fallo de HubSpot no puede romperle el demo a un
+    # prospecto que está evaluando la propuesta.
+    from utils.crm import registrar_visita
+    registrar_visita(
+        username, name, ip,
+        loc.get("ciudad", "—"), loc.get("region", "—"), loc.get("pais", "—"),
+    )
+
 
 def require_login():
     """Muestra login si no autenticado. Retorna (name, username, authenticator)."""
